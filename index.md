@@ -20,9 +20,10 @@ sections:
           description: Our support for seniors.
           url: /living-environment
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: What is Age Well SG?
+      subtitle: About the programme
+      description: "Age Well SG is a national programme led by MOH, MND and MOT to
+        support seniors to age in their homes and their communities. "
+      button: Read more
       url: /faq/
 ---
