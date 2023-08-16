@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -22,8 +22,8 @@ sections:
   - infobar:
       title: What is Age Well SG?
       subtitle: About the programme
-      description: "Age Well SG is a national programme led by MOH, MND and MOT to
-        support seniors to age in their homes and their communities. "
+      description: Age Well SG is a national programme led by MOH, MND and MOT to
+        support seniors to age in their homes and their communities.
       button: Read more
       url: /faq/
 ---
