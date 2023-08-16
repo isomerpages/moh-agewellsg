@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Age Well SG
-      background: /images/hero-banner.png
+      background: /images/banner.png
       key_highlights:
         - title: What is Age Well SG?
           description: About the programme.
