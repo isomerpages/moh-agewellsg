@@ -3,10 +3,18 @@ title: Active Ageing
 permalink: /active-ageing/
 description: ""
 ---
-### **FAQ**
+**In tandem with Healthier SG which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**The enhancement of the Active Ageing Centres (AACs) is one of our key strategies.**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+* We will strengthen the programmes offered by AACs through standardised evidence-informed initiatives under key domains (e.g. social, physical, cognitive) to improve seniors’ self-management of health  
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+* AACs will encourage seniors to be engaged through activities, such as communal meals, as a starting point to foster social interactions and reduce social isolation
+	* The Silver Generation Office (SGO) will also prioritise outreach to seniors at greater risk of social isolation and frailty and encourage them to join their neighbourhood AACs 
+
+* AACs will also offer more opportunities for seniors to volunteer, keeping them active, purposeful and involved in their community 
+
+* We will also scale up the number of AACs from 154 today so that nearly all seniors will have an AAC near their homes
+	* To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as co-using Residents’ Networks (RN). 
+
+[Photos from PM’s visit to Bedok Radiance and other AAC photos]
