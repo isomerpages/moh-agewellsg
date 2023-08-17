@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Age Well SG
-      background: /images/age well banner.png
+      background: /images/age well banner 2.png
       key_highlights:
         - title: What is Age Well SG?
           description: About the programme.
