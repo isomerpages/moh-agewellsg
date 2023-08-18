@@ -21,7 +21,6 @@ sections:
           url: /active-ageing
   - infobar:
       title: What is Age Well SG?
-      subtitle: About the programme
       description: Age Well SG is a national programme led by MOH, MND and MOT to
         support seniors to age well in their homes and their communities.
       button: Read more
