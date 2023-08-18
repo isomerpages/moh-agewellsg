@@ -11,13 +11,13 @@ sections:
       background: /images/age well banner 2.png
       key_highlights:
         - title: What is Age Well SG?
-          description: About the programme.
+          description: About the programme
           url: /about
         - title: Active Ageing
-          description: Our approach to active ageing.
+          description: Active ageing in the community
           url: /active-ageing
         - title: Living Environment
-          description: Our support for seniors.
+          description: Senior-friendly environment
           url: /living-environment
   - infobar:
       title: What is Age Well SG?
