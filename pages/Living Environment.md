@@ -3,8 +3,6 @@ title: Living Environment
 permalink: /living-environment/
 description: ""
 ---
-
-
 ![](/images/living%20environment%20banner.jpg)
 
 **To support seniors to age safely and confidently in familiar environments, we are enhancing  our HDB homes and precincts to make them more senior-friendly**
