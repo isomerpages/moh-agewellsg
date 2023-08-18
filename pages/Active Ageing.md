@@ -44,3 +44,5 @@ Sign up as a [Silver Generation Volunteer](https://for.sg/aac-volunteer-applicat
 We will also scale up the number of AACs from 154 today so that nearly all seniors will have an AAC near their homes
 
 To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as co-using Residents’ Networks (RN).
+
+![](/images/aaclogo.PNG)
