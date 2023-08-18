@@ -7,8 +7,7 @@ description: ""
 
 **In tandem with [Healthier SG](https://www.healthiersg.gov.sg) which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.**
 
-### The enhancement of the Active Ageing Centres (AACs) is one of our key strategies.
-### 
+### The enhancement of the Active Ageing Centres (AACs) is one of our key strategies. ### 
 
 ![](/images/aaclogo.PNG)
 
@@ -18,8 +17,8 @@ AACs will encourage seniors to be engaged through activities, such as communal m
 
 The Silver Generation Office (SGO) will also prioritise outreach to seniors at greater risk of social isolation and frailty and encourage them to join their neighbourhood AACs.
 
-#### Can I attend an AAC? 
-#### 
+#### Can I attend an AAC? #### 
+
 Yes! The AACs are suitable for all seniors who would like to remain physically, mentally and socially active. They offer a range of activities and programmes for seniors with varied interests and abilities. 
 
 ![](/images/seniors%20cooking.jpg)
