@@ -3,12 +3,12 @@ url: https://www.agewell.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#f7921e"
-  secondary-color: "#febd11"
+  secondary-color: "#ecb113"
   media-colors:
     - title: media-color-one
-      color: "#f5a623"
+      color: "#e89e22"
     - title: media-color-two
-      color: "#f9bc56"
+      color: "#ecb455"
     - title: media-color-three
       color: "#f4c30a"
     - title: media-color-four
