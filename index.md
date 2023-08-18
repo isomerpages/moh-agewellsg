@@ -13,12 +13,12 @@ sections:
         - title: What is Age Well SG?
           description: About the programme
           url: /about
-        - title: Active Ageing
-          description: Active ageing in the community
-          url: /active-ageing
         - title: Living Environment
           description: Senior-friendly environment
           url: /living-environment
+        - title: Active Ageing
+          description: Active ageing in the community
+          url: /active-ageing
   - infobar:
       title: What is Age Well SG?
       subtitle: About the programme
