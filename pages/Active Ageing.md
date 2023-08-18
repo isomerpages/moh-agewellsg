@@ -3,13 +3,15 @@ title: Active Ageing
 permalink: /active-ageing/
 description: ""
 ---
-![](/images/encourage%20active%20ageing.jpg)
+#### Ageing actively in the community ####
+
+![](/images/encourage%20active%20ageing%20(2).jpg)
 
 **In tandem with [Healthier SG](https://www.healthiersg.gov.sg) which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.**
 
-### The enhancement of the Active Ageing Centres (AACs) is one of our key strategies. ### 
+#### The enhancement of the Active Ageing Centres (AACs) is one of our key strategies. #### 
 
-![](/images/aaclogo.PNG)
+![](/images/seniors%20singing%20(2).jpg)
 
 We will strengthen the programmes offered by AACs through standardised evidence-informed initiatives under key domains (e.g. social, physical, cognitive) to improve seniors’ self-management of health.
 
@@ -19,27 +21,25 @@ The Silver Generation Office (SGO) will also prioritise outreach to seniors at g
 
 #### Can I attend an AAC? #### 
 
-Yes! The AACs are suitable for all seniors who would like to remain physically, mentally and socially active. They offer a range of activities and programmes for seniors with varied interests and abilities. 
+![](/images/seniors%20cooking%20(2).jpg)
 
-![](/images/seniors%20cooking.jpg)
+Yes! The AACs are suitable for all seniors who would like to remain physically, mentally and socially active. They offer a range of activities and programmes for seniors with varied interests and abilities. 
 
  **Interested to participate in an AAC?**
  
-You may locate the AAC nearest you [here](www.go.gov.sg/aacgowhere). Alternatively, you may call the Agency for Integrated Care at [hotline no.] for further assistance to find your AAC.  
+You may locate the AAC nearest you [here](www.go.gov.sg/aacgowhere).  
 
 **Are activities and programmes offered by the AACs free of charge?**
 
 Most activities offered by the AACs are free for seniors to enjoy. However, depending on the service provider, there may be some unique activities that require a small fee for participation.
 
-![](/images/pm%20at%20bedok%20radiance.JPG)
+#### Keen to share a skill, or support fellow seniors? #### 
+
+![](/images/extra_bedok%20radiance%20food%20delivery%20(2).jpg)
 
 AACs will also offer more opportunities for seniors to volunteer, keeping them active, purposeful and involved in their community.
 
-#### Keen to share a skill, or support fellow seniors? #### 
-
 Sign up as a [Silver Generation Volunteer](https://for.sg/aac-volunteer-application) today! 
-
-![](/images/senior%20helping%20another%20senior.jpg)
 
 We will also scale up the number of AACs from 154 today so that nearly all seniors will have an AAC near their homes
 
