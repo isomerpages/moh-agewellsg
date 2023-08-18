@@ -4,6 +4,9 @@ permalink: /living-environment/
 description: ""
 ---
 
+
+![](/images/living%20environment%20banner.jpg)
+
 **To support seniors to age safely and confidently in familiar environments, we are enhancing  our HDB homes and precincts to make them more senior-friendly**
 
 * Within flats, we will expand the scope of the existing Enhancement for Active Seniors (EASE) programme under “EASE 2.0” to offer a greater variety of improvements, such as foldable shower seats and widened toilet entrances for wheelchair users.
