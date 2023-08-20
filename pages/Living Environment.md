@@ -3,7 +3,6 @@ title: Living Environment
 permalink: /living-environment/
 description: ""
 ---
-
 #### Senior-friendly living environment ####
 
 ![](/images/living%20environment%20banner%20(2).jpg)
@@ -12,7 +11,7 @@ description: ""
 
 ##### EASE 2.0 #####
 
-![](/images/easeage.jpg)
+![](/images/ease-2.jpg)
 
 Within flats, we will expand the scope of the existing Enhancement for Active Seniors (EASE) programme under “EASE 2.0” to offer a greater variety of improvements, such as foldable shower seats and widened toilet entrances for wheelchair users.
 
