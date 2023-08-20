@@ -32,5 +32,6 @@ b) Encourage active ageing
 
 c) Strengthen support for seniors with care needs in the community 
 
+**More details will be shared subsequently.**
 ![](/images/alllogos.PNG)
 ![](/images/initiative.PNG)
