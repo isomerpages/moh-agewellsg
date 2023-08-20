@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Age Well SG
-description: An Isomer site of the Singapore Government
+description: Supporting seniors to age well in their homes and their communities
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
