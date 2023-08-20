@@ -15,6 +15,7 @@ description: ""
 
 #### Singapore is one of the fastest-ageing countries in the world ####
 <br>
+
 <div class="bp-youtube"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/WHYKk--m9rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **The United Nations defines a country as ‘ageing’ if the share of its population aged 65 and above crosses 7%. It is considered ‘aged’ if the share exceeds 14%. Once the share reaches 21%, it is ‘super aged’.**
