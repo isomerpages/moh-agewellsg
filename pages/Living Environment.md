@@ -19,7 +19,7 @@ Within flats, we will expand the scope of the existing Enhancement for Active Se
 
 ![](/images/seniorfriendly%20(2).jpg)
 
-We will upgrade our housing estates to include senior-friendly features, such as therapeutic gardens and fitness trails, barrier-free access ramps and rest points along linkways, and dementia-friendly features to improve wayfinding. We will start with towns with more seniors such as Ang Mo Kio, Bukit Merah.
+We will upgrade our housing estates to include senior-friendly features, such as therapeutic gardens and fitness trails, barrier-free access ramps and rest points along linkways, and dementia-friendly features to improve wayfinding. We will start with towns with more seniors such as Ang Mo Kio and Bukit Merah.
 
 ##### Senior-friendly streets #####
 
