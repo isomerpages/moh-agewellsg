@@ -13,6 +13,10 @@ description: ""
 
 ![](/images/seniors%20singing%20(2).jpg)
 
+We will scale up the number of AACs from 154 currently to 220 by 2025, so that nearly all seniors will have an AAC near their homes 
+
+To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as co-using Residents’ Networks (RN).
+
 We will strengthen the programmes offered by AACs through standardised evidence-informed initiatives under key domains (e.g. social, physical, cognitive) to improve seniors’ self-management of health.
 
 AACs will encourage seniors to be engaged through activities, such as communal meals, as a starting point to foster social interactions and reduce social isolation.
@@ -27,7 +31,7 @@ Yes! The AACs are suitable for all seniors who would like to remain physically, 
 
  **Interested to participate in an AAC?**
  
-You may locate the AAC nearest you [here](www.go.gov.sg/aacgowhere).  
+You may locate the AAC nearest you [here](https://www.go.gov.sg/aacgowhere).  Alternatively, you may contact the Agency for Integrated Care (AIC) at 1800-650-6060 or [email them](https://www.aic.sg/About-Us/Contact-Us-Form) for further assistance to find your AAC. 
 
 **Are activities and programmes offered by the AACs free of charge?**
 
@@ -40,9 +44,5 @@ Most activities offered by the AACs are free for seniors to enjoy. However, depe
 AACs will also offer more opportunities for seniors to volunteer, keeping them active, purposeful and involved in their community.
 
 Sign up as a [Silver Generation Volunteer](https://for.sg/aac-volunteer-application) today! 
-
-We will also scale up the number of AACs from 154 today so that nearly all seniors will have an AAC near their homes
-
-To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as co-using Residents’ Networks (RN).
 
 ![](/images/aaclogo.PNG)
