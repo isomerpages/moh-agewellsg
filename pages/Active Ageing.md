@@ -7,15 +7,15 @@ description: ""
 
 ![](/images/encourage%20active%20ageing%20(2).jpg)
 
-**In tandem with [Healthier SG](https://www.healthiersg.gov.sg) which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.**
+**In tandem with [Healthier SG](https://www.healthiersg.gov.sg), which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.**
 
 #### The enhancement of the Active Ageing Centres (AACs) is one of our key strategies. #### 
 
 ![](/images/seniors%20singing%20(2).jpg)
 
-We will scale up the number of AACs from 154 currently to 220 by 2025, so that nearly all seniors will have an AAC near their homes 
+We will scale up the number of AACs from 154 currently to 220 by 2025, so that nearly all seniors will have an AAC near their homes.
 
-To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as co-using Residents’ Networks (RN).
+To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as by co-using Residents’ Networks (RN).
 
 We will strengthen the programmes offered by AACs through standardised evidence-informed initiatives under key domains (e.g. social, physical, cognitive) to improve seniors’ self-management of health.
 
