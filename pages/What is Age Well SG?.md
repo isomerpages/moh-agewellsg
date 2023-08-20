@@ -6,7 +6,7 @@ description: ""
 #### What is Age Well SG? #### 
 ![](/images/what%20is%20age%20well.jpg)
 
-**Age Well SG is a national programme led by Ministry of Health (MOH), the Ministry of National Development (MND) and the Ministry of Transport (MOT) to support seniors to age in their homes and their communities. It aims to tackle social isolation, which is a key determinant of frailty, and empower seniors to age actively and independently.**
+**Age Well SG is a national programme led by Ministry of Health (MOH), the Ministry of National Development (MND) and the Ministry of Transport (MOT) to support seniors to age well in their homes and their communities. It aims to tackle social isolation, which is a key determinant of frailty, and empower seniors to age actively and independently.**
 
 *“Together, we will make Singapore an endearing home for all ages, where seniors can age with dignity and grace, connected with friends and family, and enjoying greater peace of mind.”*
 
