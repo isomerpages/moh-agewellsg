@@ -22,15 +22,15 @@ description: ""
 
 #### Key Features of Age Well SG ####
 
-**Age Well SG offers a comprehensive nationwide transformation across the areas of transport, housing, active ageing and care services to anchor ageing in the community.**
-
 ![](/images/key%20feature%20(2).jpg)
 
-a) Improve the physical living environment 
+Age Well SG offers a comprehensive nationwide transformation across the areas of transport, housing, active ageing and care services to anchor ageing in the community. The programme aims to:
 
-b) Encourage active ageing 
+a) Improve the physical living environment.
 
-c) Strengthen support for seniors with care needs in the community 
+b) Encourage active ageing.
+
+c) Strengthen support for seniors with care needs in the community.
 
 **More details will be shared subsequently.**
 ![](/images/alllogos.PNG)
