@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/living%20environment%20banner%20(2).jpg)
 
-**To support seniors to age safely and confidently in familiar environments, we are enhancing  our HDB homes and precincts to make them more senior-friendly**
+**To support seniors to age safely and confidently in familiar environments, we are enhancing  our HDB homes and precincts to make them more senior-friendly.**
 
 ##### EASE 2.0 #####
 
