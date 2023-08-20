@@ -27,10 +27,10 @@ We will upgrade our housing estates to include senior-friendly features, such as
 
 With our Friendly Streets initiative, we are also doing more to help seniors and the wider community commute more safely around their neighbourhoods, and encourage more active lifestyles. 
 
-Friendly Streets will include more pedestrian crossings, wider and more accessible footpaths, traffic calming measures, and more frequent and longer Green Man activations
+Friendly Streets will include more pedestrian crossings, wider and more accessible footpaths, traffic calming measures, and more frequent and longer Green Man activations.
 
 ##### Community Care Apartments (CCAs) #####
 
 ![](/images/cca%20(2).jpg)
 
-We will also offer more senior-centric housing options for seniors to age independently in the community, by building more CCAs and releasing land for development of private assisted living facilities
+We will also offer more senior-centric housing options for seniors to age independently in the community, by building more CCAs and releasing land for development of private assisted living facilities.
