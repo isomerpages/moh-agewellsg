@@ -19,6 +19,14 @@ sections:
         - title: Active Ageing
           description: Active ageing in the community
           url: /active-ageing
+      variant: floating
+      subtitle: Age Well SG is a national programme led by MOH, MND and MOT to support
+        seniors to age well in their homes and their communities.
+      size: md
+      alignment: left
+      backgroundColor: gray
+      button: Read more
+      url: /about/
   - infobar:
       title: What is Age Well SG?
       description: Age Well SG is a national programme led by MOH, MND and MOT to
