@@ -33,4 +33,19 @@ sections:
         support seniors to age well in their homes and their communities.
       button: Read more
       url: /about
+  - infocols:
+      title: Strengthened care support
+      id: infocols
+      linktext: Learn more
+      url: /strengtened-care-support/
+      infoboxes:
+        - title: Stay-in Shared Caregiving Sandbox
+          description: To support private sector innovation to widen the range of care
+            solutions for seniors to age in the community.
+        - title: "Seamless delivery of care  "
+          description: To help seniors and caregivers enjoy a more seamless and
+            coordinated care journey.
+        - title: "Support for Caregiver Training    "
+          description: To make it easier for every Singaporean family to have a trained
+            caregiver.
 ---
