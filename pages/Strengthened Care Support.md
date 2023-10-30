@@ -46,7 +46,7 @@ Under the bundled services model, the BP takes ownership and has end-to-end visi
 
 These efforts to restructure the sector will take place progressively from 2024.  
 
-Support for Caregiver Training 
+#### Support for Caregiver Training 
 
  
 [image] 
@@ -61,4 +61,4 @@ Caregivers will also be able to tap on SkillsFuture Subsidies and use their Skil
 AIC and SkillsFuture Singapore will scale up the number of places if needed to ensure that there are sufficient training places to meet the needs of caregivers. 
 
 
-#### Be trained and equipped early! 
+#### Be trained and equipped early!
