@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: What is Age Well SG?
-      background: /images/photo for delivery of care 1.jpeg
+      background: /images/agewellbanner.png
       key_highlights:
         - title: What is Age Well SG?
           description: About the programme
