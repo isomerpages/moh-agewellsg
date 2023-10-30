@@ -3,22 +3,21 @@ title: Strengthened Care Support
 permalink: /strengtened-care-support/
 description: ""
 ---
-#### Strengthening Support for Seniors with Care Needs 
+#### Strengthening Support for Seniors with Care Needs
 
-[image] 
 
+![](/images/photo%20for%20strengthen%20care%20support%20(2).jpg)
 Beyond supporting seniors to age actively, we also understand that there are seniors who are concerned about being adequately cared for in their homes and in their community. 
 
- To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timely and appropriate care right where they are. 
+ To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timend appropriate care right where they are. 
 
 #### Stay-in Shared Caregiving Sandbox 
 
  
-[image] 
+![](/images/photo%20for%20sandbox%20(2).jpg)
  
 
 In September 2023, MOH and the Agency for Integrated Care (AIC), with support from the Ministry of Manpower (MOM), launched applications for a sandbox to explore the viability of new stay-in shared caregiving models for seniors.  
-
 
 We hope to support private sector innovation to widen the range of care solutions for seniors to age in the community. 
 
@@ -29,8 +28,8 @@ As of end-October 2023, 5 companies have onboarded the sandbox and aim to serve 
 
 ####  Seamless delivery of care  
 
-[image] 
 
+![](/images/photo%20for%20delivery%20of%20care%201%20(2).jpeg)
 
 Today, aged care delivery is fragmented, with multiple services and providers in most regions. Seniors with multiple care needs will have to coordinate with various providers and undergo multiple non-standardised assessments.   
 
