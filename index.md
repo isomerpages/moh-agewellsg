@@ -10,15 +10,15 @@ sections:
       title: What is Age Well SG?
       background: /images/agewellbanner.png
       key_highlights:
-        - title: What is Age Well SG?
-          description: About the programme
-          url: /about
         - title: Living Environment
           description: Senior-friendly environment
           url: /living-environment
         - title: Active Ageing
           description: Active ageing in the community
           url: /active-ageing
+        - title: Strengthened care support
+          description: About the programme
+          url: Strengthening Support for seniors with care needs
       variant: floating
       subtitle: Age Well SG is a national programme led by MOH, MND and MOT to support
         seniors to age well in their homes and their communities.
