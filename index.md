@@ -17,8 +17,8 @@ sections:
           description: Active ageing in the community
           url: /active-ageing
         - title: Strengthened care support
-          description: About the programme
-          url: Strengthening support for seniors with care needs
+          description: Support seniors and caregivers
+          url: ""
       variant: floating
       subtitle: Age Well SG is a national programme led by MOH, MND and MOT to support
         seniors to age well in their homes and their communities.
