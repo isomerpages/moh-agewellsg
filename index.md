@@ -18,7 +18,7 @@ sections:
           url: /active-ageing
         - title: Strengthened care support
           description: Support seniors and caregivers
-          url: /strengtened-care-support/
+          url: /strengthened-care-support/
       variant: floating
       subtitle: Age Well SG is a national programme led by MOH, MND and MOT to support
         seniors to age well in their homes and their communities.
@@ -36,10 +36,10 @@ sections:
         - title: Stay-in Shared Caregiving Sandbox
           description: To support private sector innovation to widen the range of care
             solutions for seniors to age in the community.
-        - title: "Seamless delivery of care  "
+        - title: Seamless delivery of care
           description: To help seniors and caregivers enjoy a more seamless and
             coordinated care journey.
-        - title: "Support for Caregiver Training    "
+        - title: Support for Caregiver Training
           description: To make it easier for every Singaporean family to have a trained
             caregiver.
 ---
