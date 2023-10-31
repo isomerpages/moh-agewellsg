@@ -38,7 +38,6 @@ To relieve seniors and their caregivers the frustrations of a fragmented landsca
 
 Under this new model, a single bundled-services provider (BP) will act as the single point of contact for seniors, and offer key care services (Active Ageing Centres, Senior Care Centres, Enhanced Home Personal Care, and Community Rehabilitation) to seniors based on a single care plan developed using a single care assessment tool. The BP may deliver these services directly or coordinate with other providers within the sub-region to deliver these services to seniors. 
 
-[image] 
 
 
 Under the bundled services model, the BP takes ownership and has end-to-end visibility of the senior’s entire care journey. Seniors can be connected to the care services they need the most, without additional referrals and reassessments by different parties. 
@@ -47,8 +46,7 @@ These efforts to restructure the sector will take place progressively from 2024.
 
 #### Support for Caregiver Training 
 
- 
-[image] 
+![](/images/photo%20for%20delivery%20of%20care%202%20(2).png)
 
 To make it easier for every Singaporean family to have a trained caregiver, we will increase the Caregivers’ Training Grant (CTG) from the existing $200 per year, to up to $400.  
 
@@ -60,4 +58,4 @@ Caregivers will also be able to tap on SkillsFuture Subsidies and use their Skil
 AIC and SkillsFuture Singapore will scale up the number of places if needed to ensure that there are sufficient training places to meet the needs of caregivers. 
 
 
-#### Be trained and equipped early!
+**Be [trained](https://www.aic.sg/caregiving/caregiver-training-course) and equipped early!**
