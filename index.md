@@ -27,6 +27,15 @@ sections:
       backgroundColor: gray
       button: Read more
       url: /about/
+  - infopic:
+      title: What is Age Well SG?
+      id: infopic
+      description: Age Well SG is a national programme led by MOH, MND and MOT to
+        support seniors to age well in their homes and their communities.
+      button: Read more
+      url: /about/
+      image: /images/age well.jpg
+      alt: Image alt text
   - infocols:
       title: Strengthened care support
       id: infocols
@@ -42,13 +51,4 @@ sections:
         - title: Support for Caregiver Training
           description: To make it easier for every Singaporean family to have a trained
             caregiver.
-  - infopic:
-      title: What is Age Well SG?
-      id: infopic
-      description: Age Well SG is a national programme led by MOH, MND and MOT to
-        support seniors to age well in their homes and their communities.
-      button: Read more
-      url: /about/
-      image: /images/age well.jpg
-      alt: Image alt text
 ---
