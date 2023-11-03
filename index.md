@@ -33,19 +33,4 @@ sections:
       url: /about/
       image: /images/age well.jpg
       alt: Image alt text
-  - infocols:
-      title: Strengthened care support
-      id: infocols
-      linktext: Learn more
-      url: /strengthened-care-support/
-      infoboxes:
-        - title: Stay-in Shared Caregiving Sandbox
-          description: To support private sector innovation to widen the range of care
-            solutions for seniors to age in the community.
-        - title: Seamless Delivery of Care
-          description: To help seniors and caregivers enjoy a more seamless and
-            coordinated care journey.
-        - title: Support for Caregiver Training
-          description: To make it easier for every Singaporean family to have a trained
-            caregiver.
 ---
