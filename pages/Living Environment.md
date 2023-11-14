@@ -2,6 +2,7 @@
 title: Living Environment
 permalink: /living-environment/
 description: ""
+variant: markdown
 ---
 #### Senior-friendly living environment ####
 
@@ -9,28 +10,23 @@ description: ""
 
 **To support seniors to age safely and confidently in familiar environments, we are enhancing  our HDB homes and precincts to make them more senior-friendly.**
 
-##### EASE 2.0 #####
+##### Within HDB flats #####
 
 ![](/images/ease-2.jpg)
 
-Within flats, we will expand the scope of the existing Enhancement for Active Seniors (EASE) programme under “EASE 2.0” to offer a greater variety of improvements, such as foldable shower seats and widened toilet entrances for wheelchair users.
+We are expanding the Enhancement for Active Seniors (EASE) programme, into EASE 2.0, which will offer a wider range of senior-friendly features. These include rocker switches, home fire alarm devices, handrails at multi-step flat entrances, foldable shower seats and widened toilet entrances for wheelchair users. 
 
-##### Senior-friendly neighbourhoods #####
+To better support low-income and vulnerable seniors who often lack family support, we will progressively expand the provision of the wireless Alert Alarm System (AAS) to all seniors aged 60 and above staying in public rental housing. 
+
+
+##### At the HDB precincts and private residential estates #####
+
+We will progressively roll out senior-centric upgrading works to over 20 older precincts with a higher density of seniors in Ang Mo Kio, Bukit Merah, Queenstown and Toa Payoh. 
 
 ![](/images/seniorfriendly%20(2).jpg)
+Possible enhancements include therapeutic gardens, fitness trails, barrier-free access ramps and rest points, and dementia-friendly features to improve way-finding. These upgrading initiatives will complement Healthier SG to support seniors in leading an active lifestyle and will be gradually implemented over the next 5 years. 
 
-We will upgrade our housing estates to include senior-friendly features, such as therapeutic gardens and fitness trails, barrier-free access ramps and rest points along linkways, and dementia-friendly features to improve wayfinding. We will start with towns with more seniors such as Ang Mo Kio and Bukit Merah.
-
-##### Senior-friendly streets #####
-
-![](/images/streets2%20(2).jpg)
-
-With our Friendly Streets initiative, we are also doing more to help seniors and the wider community commute more safely around their neighbourhoods, and encourage more active lifestyles. 
-
-Friendly Streets will include more pedestrian crossings, wider and more accessible footpaths, traffic calming measures, and more frequent and longer Green Man activations.
-
-##### Community Care Apartments (CCAs) #####
+Similar upgrading works will be carried out at selected older private residential estates, under the Estate Upgrading Programme (EUP). Additionally, we will identify and select estates with a higher concentration of seniors, including those that have benefited from EUP some time ago, for senior-friendly enhancements.  
 
 ![](/images/cca%20(2).jpg)
-
-We will also offer more senior-centric housing options for seniors to age independently in the community, by building more CCAs and releasing land for development of private assisted living facilities.
+To provide more assisted living options for seniors to age in place, we will ramp up the supply of Community Care Apartments (CCAs). Seniors living in CCAs can enjoy convenient access to various amenities and eldercare facilities. 
