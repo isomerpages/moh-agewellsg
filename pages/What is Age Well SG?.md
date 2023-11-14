@@ -2,6 +2,7 @@
 title: What is Age Well SG?
 permalink: /about/
 description: ""
+variant: markdown
 ---
 #### What is Age Well SG? #### 
 
@@ -37,7 +38,6 @@ b) Encourage active ageing.
 
 c) Strengthen support for seniors with care needs in the community.
 
-We will share more details in due course.
 
 ![](/images/alllogos.PNG)
 ![](/images/initiative.PNG)
