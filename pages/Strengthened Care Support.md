@@ -34,31 +34,26 @@ This will mitigate the impact on family caregiving that shrinking family sizes h
 
 ![](/images/photo%20for%20delivery%20of%20care%201%20(2).jpeg)
 
-Today, aged care delivery is fragmented, with multiple services and providers in most regions. Seniors with multiple care needs will have to coordinate with various providers and undergo multiple non-standardised assessments.   
+Today, seniors with multiple care needs may have to interact with multiple care providers and undergo repeated assessments from each provider. For example, they may need to interact with a day care centre, and also home care provider. 
 
-To relieve seniors and their caregivers the frustrations of a fragmented landscape and help them enjoy a more seamless and coordinated care journey, we will restructure the aged care landscape. 
+We will help seniors and their caregivers have a more seamless care journey by having a single point of contact to meet their multiple care needs from various providers. The point of contact will perform the role of a single bundled service provider, coordinating care across service providers for the seniors. 
 
+It will use a standardised care assessment tool, to plan and address the senior’s care needs. This reduces the need for multiple assessments and unnecessary referrals by different care providers.
 
-Under this new model, a single bundled-services provider (BP) will act as the single point of contact for seniors, and offer key care services (Active Ageing Centres, Senior Care Centres, Enhanced Home Personal Care, and Community Rehabilitation) to seniors based on a single care plan developed using a single care assessment tool. The BP may deliver these services directly or coordinate with other providers within the sub-region to deliver these services to seniors. 
+These efforts to improve coordination in the sector will take place progressively from the second half of 2024, and in consultation with stakeholders. 
 
-
-
-Under the bundled services model, the BP takes ownership and has end-to-end visibility of the senior’s entire care journey. Seniors can be connected to the care services they need the most, without additional referrals and reassessments by different parties. 
-
-These efforts to restructure the sector will take place progressively from 2024.  
+ 
 
 #### Support for Caregiver Training 
 
 ![](/images/photo%20for%20delivery%20of%20care%202%20(2).png)
 
-To make it easier for every Singaporean family to have a trained caregiver, we will increase the Caregivers’ Training Grant (CTG) from the existing $200 per year, to up to $400.  
+To make it easier for every Singaporean family to have a trained caregiver, we will enhance the [Caregivers’ Training Grant (CTG)](https://www.aic.sg/financial-assistance/caregivers-training-grant).
 
-From April 2024, eligible beneficiaries will start off with a $400 grant. Each year, we will top up beneficiaries’ CTG accounts by $200, and allow unused monies to be carried forward, with the grant monies in each account capped at $400.  
+From 2024, caregivers can tap on up to $400 in CTG subsidies per year, double that of $200 today. We will also allow caregivers to tap on their SkillsFuture Credit to pay for eligible caregiver courses, to further reduce the cost of training. 
 
-Caregivers will also be able to tap on SkillsFuture Subsidies and use their SkillsFuture Credits for selected caregiving courses from November 2023, further reducing the cost of training. 
+With these, we intend to scale up the number of subsidised training places for caregivers, to 4,400 each year across 200 courses. AIC and SkillsFuture Singapore will add more places if needed to ensure that the needs of caregivers are met
 
-
-AIC and SkillsFuture Singapore will scale up the number of places if needed to ensure that there are sufficient training places to meet the needs of caregivers. 
 
 
 **Be [trained](https://www.aic.sg/caregiving/caregiver-training-course) and equipped early!**
