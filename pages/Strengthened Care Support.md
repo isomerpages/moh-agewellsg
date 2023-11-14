@@ -15,7 +15,8 @@ Beyond supporting seniors to age actively, we also understand that there are sen
 
  
 ![](/images/photo%20for%20sandbox%20(2).jpg)
- 
+
+We will support private sector innovation to widen the range of care solutions for seniors to age in the community.
 
 In September 2023, MOH and the Agency for Integrated Care (AIC), with support from the Ministry of Manpower (MOM), launched applications for a sandbox to explore the viability of new stay-in shared caregiving models for seniors.  
 
