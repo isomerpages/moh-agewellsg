@@ -7,25 +7,27 @@ variant: markdown
 #### Strengthening Support for Seniors with Care Needs
 
 ![](/images/photo%20for%20strengthen%20care%20support%20(2).jpg)
+
 Beyond supporting seniors to age actively, we also understand that there are seniors who are concerned about being adequately cared for in their homes and in their community. 
 
- To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timend appropriate care right where they are. 
+To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timend appropriate care right where they are. 
 
 #### Stay-in Shared Caregiving Sandbox 
 
  
 ![](/images/photo%20for%20sandbox%20(2).jpg)
 
-We will support private sector innovation to widen the range of care solutions for seniors to age in the community.
+We will support private sector innovation to widen the range of care solutions for seniors to age in the community.  
 
-In September 2023, MOH and the Agency for Integrated Care (AIC), with support from the Ministry of Manpower (MOM), launched applications for a sandbox to explore the viability of new stay-in shared caregiving models for seniors.  
+In September this year, MOH and the Agency for Integrated Care (AIC), with support from the Ministry of Manpower (MOM), launched applications for a sandbox to explore the viability of new stay-in shared caregiving models for seniors.  
 
-We hope to support private sector innovation to widen the range of care solutions for seniors to age in the community. 
+This will mitigate the impact on family caregiving that shrinking family sizes have brought about and offer more options for seniors, especially those living alone, to age in the community with care support.
 
-Participating companies will be supported through foreign manpower concessions to mitigate manpower challenges.  
+ We have identified five companies to be onboarded onto the sandbox, and they aim to serve an estimated 800 senior clients.  
 
- 
-As of end-October 2023, 5 companies have onboarded the sandbox and aim to serve an estimated 800 senior clients. 
+ Participating companies will be supported through foreign manpower concessions to mitigate manpower challenges.
+
+
 
 ####  Seamless delivery of care  
 
