@@ -2,9 +2,9 @@
 title: Strengthened Care Support
 permalink: /strengthened-care-support/
 description: ""
+variant: markdown
 ---
 #### Strengthening Support for Seniors with Care Needs
-
 
 ![](/images/photo%20for%20strengthen%20care%20support%20(2).jpg)
 Beyond supporting seniors to age actively, we also understand that there are seniors who are concerned about being adequately cared for in their homes and in their community. 
