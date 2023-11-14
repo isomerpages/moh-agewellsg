@@ -10,7 +10,7 @@ variant: markdown
 
 Beyond supporting seniors to age actively, we also understand that there are seniors who are concerned about being adequately cared for in their homes and in their community. 
 
-To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timend appropriate care right where they are. 
+To strengthen support for frailer seniors and provide greater reassurance to family members, we are developing more options for seniors to receive timely and appropriate care right where they are. 
 
 #### Stay-in Shared Caregiving Sandbox 
 
@@ -52,7 +52,7 @@ To make it easier for every Singaporean family to have a trained caregiver, we w
 
 From 2024, caregivers can tap on up to $400 in CTG subsidies per year, double that of $200 today. We will also allow caregivers to tap on their SkillsFuture Credit to pay for eligible caregiver courses, to further reduce the cost of training. 
 
-With these, we intend to scale up the number of subsidised training places for caregivers, to 4,400 each year across 200 courses. AIC and SkillsFuture Singapore will add more places if needed to ensure that the needs of caregivers are met
+With these, we intend to scale up the number of subsidised training places for caregivers, to 4,400 each year across 200 courses. AIC and SkillsFuture Singapore will add more places if needed to ensure that the needs of caregivers are met.
 
 
 
