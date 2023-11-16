@@ -32,6 +32,13 @@ Similar upgrading works will be carried out at selected older private residentia
 
 To provide more assisted living options for seniors to age in place, we will ramp up the supply of Community Care Apartments (CCAs). Seniors living in CCAs can enjoy convenient access to various amenities. 
 
+![](/images/friendly_streets_initiative.jpg)
+*The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*  
+
+
+ ![](/images/friendly_streets_initiative_2_.jpg)
+*Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
+
 With our Friendly Streets initiative, we are also doing more to further enhance safety and convenience for residents, especially seniors, to move around their neighbourhoods, and encourage more active lifestyles. 
 
 The Ministry of Transport (MOT) and the Land Transport Authority (LTA) target to expand the Friendly Streets initiative to all towns by 2030.
@@ -42,11 +49,6 @@ Each pilot is spearheaded by a taskforce, made up of the local Advisers, represe
 
 Building on this momentum, we are expanding the Friendly Streets initiative to cover more towns so that it would benefit more residents including seniors in the years ahead. We will take into account learning points from the pilot locations, and continue to work closely with the local communities to implement Friendly Streets in other towns.
 
-![](/images/friendly_streets_initiative.jpg)
-*The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*      
  
- ![](/images/friendly_streets_initiative_2_.jpg)
-*Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
-
 ![](/images/Picture4.png)
 *Before and after visual of the Friendly Streets at Tampines Ave 9*
