@@ -32,6 +32,8 @@ Similar upgrading works will be carried out at selected older private residentia
 
 To provide more assisted living options for seniors to age in place, we will ramp up the supply of Community Care Apartments (CCAs). Seniors living in CCAs can enjoy convenient access to various amenities. 
 
+##### Friendly Streets #####
+
 ![](/images/friendly_streets_initiative.jpg)
 *The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*  
 
