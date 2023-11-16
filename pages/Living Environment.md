@@ -24,9 +24,7 @@ To better support low-income and vulnerable seniors who often lack family suppor
 
 We will progressively roll out senior-centric upgrading works to over 20 older precincts with a higher density of seniors in Ang Mo Kio, Bukit Merah, Queenstown and Toa Payoh. 
 
-Possible enhancements include therapeutic gardens, fitness trails, barrier-free access ramps and rest points, and dementia-friendly features to improve way-finding. 
-
-These upgrading initiatives will complement Healthier SG to support seniors in leading an active lifestyle and will be gradually implemented over the next 5 years.
+Possible enhancements include therapeutic gardens, fitness trails, barrier-free access ramps and rest points, and dementia-friendly features to improve way-finding. These upgrading initiatives will complement Healthier SG to support seniors in leading an active lifestyle and will be gradually implemented over the next 5 years.
 
 Similar upgrading works will be carried out at selected older private residential estates, under the Estate Upgrading Programme (EUP). Additionally, we will identify and select estates with a higher concentration of seniors, including those that have benefited from EUP some time ago, for senior-friendly enhancements.
 
