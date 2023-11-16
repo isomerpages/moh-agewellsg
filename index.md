@@ -10,15 +10,15 @@ sections:
       title: Age Well SG
       background: /images/agewellbanner.png
       key_highlights:
-        - title: Living Environment
-          description: Senior-friendly environment
-          url: /living-environment
         - title: Active Ageing
           description: Active ageing in the community
           url: /active-ageing
         - title: Strengthened care support
           description: Support seniors and caregivers
           url: /strengthened-care-support/
+        - title: Living Environment
+          description: Senior-friendly environment
+          url: /living-environment
       variant: center
       size: md
       alignment: right
