@@ -39,3 +39,8 @@ Each pilot is spearheaded by a taskforce, made up of the local Advisers, represe
 
 Building on this momentum, we are expanding the Friendly Streets initiative to cover more towns so that it would benefit more residents including seniors in the years ahead. We will take into account learning points from the pilot locations, and continue to work closely with the local communities to implement Friendly Streets in other towns.
 
+*The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*      
+ 
+*Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
+
+*Before and after visual of the Friendly Streets at Tampines Ave 9*
