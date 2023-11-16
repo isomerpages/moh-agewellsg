@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Age Well SG?
+      title: Age Well SG
       background: /images/agewellbanner.png
       key_highlights:
         - title: Living Environment
