@@ -8,3 +8,5 @@ links:
     url: /strengthened-care-support/
   - title: Living Environment
     url: /living-environment
+  - title: Resources
+    resource_room: true
