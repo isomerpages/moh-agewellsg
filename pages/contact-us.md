@@ -13,7 +13,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <strong>Ministry of National Development</strong><br>For feedback
+      - other: <strong>Ministry of National Development</strong><br>For feedback about
           seniors' living environment <a
           href="mailto:mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a>
     title: " "
