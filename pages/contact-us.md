@@ -2,32 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - address:
-      - For feedbacks about seniors'
-      - living environment
-      - mnd_hq@mnd.gov.sg
-    operating_hours: []
-    maps_link: ""
-    title: Ministry of Health
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+agency_name: us for general enquiries and feedback
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: ""
+      - other: For feedback about caregivers' support <a
+          href="mailto:MOH_QSM@moh.gov.sg">MOH_QSM@moh.gov.sg</a>
+    title: Ministry of Health
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: ""
+      - other: <strong>Ministry of National Development</strong><br>For feedback about
+          caregivers' support <a
+          href="mailto:mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a>
+    title: " "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: For feedback about public transport <a
+          href="mailto:mot@mot.gov.sg">mot@mot.gov.sg</a>
+    title: Ministry of Transport
 feedback: ""
 ---
