@@ -2,31 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: us for general enquiries and feedback
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: ""
+      - other: For feedback on active ageing and support for seniors <br><a
+          href="mailto:MOH_QSM@moh.gov.sg">MOH_QSM@moh.gov.sg</a>
+    title: Ministry of Health
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <strong>Ministry of National Development</strong><br>For feedback on
+          living environment <a
+          href="mailto:mnd_hq@mnd.gov.sg">mnd_hq@mnd.gov.sg</a>
+    title: " "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: For feedback on Friendly Streets initiative <a
+          href="mailto:mot@mot.gov.sg">mot@mot.gov.sg</a>
+    title: Ministry of Transport
+feedback: ""
 ---
