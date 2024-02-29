@@ -38,6 +38,7 @@ b) Encourage active ageing.
 
 c) Strengthen support for seniors with care needs in the community.
 
+**To support these changes, the Government will dedicate at least $3.5b over the next decade to support the implementation of Age Well SG. **
 
 ![](/images/alllogos.PNG)
 ![](/images/initiative.PNG)
