@@ -45,7 +45,7 @@ ageing in the community. The programme aims to:</p>
 <p>a) Improve the physical living environment.</p>
 <p>b) Encourage active ageing.</p>
 <p>c) Strengthen support for seniors with care needs in the community.</p>
-<p><strong>To support these changes, the Government will dedicate at least $3.5b over the next decade to support the implementation of Age Well SG. </strong>
+<p><strong>To support these changes, the Government will dedicate at least $3.5b over the next decade to support the implementation of Age Well SG.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alllogos.PNG">
