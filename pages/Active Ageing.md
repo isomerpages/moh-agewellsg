@@ -14,7 +14,8 @@ variant: markdown
 
 ![](/images/seniors%20singing%20(2).jpg)
 
-We will scale up the number of AACs from 154 today to 220 by 2025, so that nearly all seniors will have an AAC near their homes.
+
+We are scaling up the number of AACs from 157 today to 220 by 2025, so that 8 in 10 seniors will have an AAC near their homes.
 
 To further improve accessibility, we will leverage community spaces beyond the AAC premises, such as by co-using Residents’ Networks (RN).
 
