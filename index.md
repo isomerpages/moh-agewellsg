@@ -33,4 +33,13 @@ sections:
       url: /about/
       image: /images/age well.jpg
       alt: Image alt text
+  - infopic:
+      title: Locate your nearest AAC
+      id: infopic
+      description: "You can walk in to your nearest AAC and take part in a wide range
+        of activities and programmes. "
+      button: Find out more
+      url: https://www.go.gov.sg/aacgowhere
+      image: /images/MOH_20_Oct_2022___1475.jpg
+      alt: Image alt text
 ---
