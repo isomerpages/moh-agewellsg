@@ -14,6 +14,16 @@ homes and in their community.</p>
 <p>To strengthen support for frailer seniors and provide greater reassurance
 to family members, we are developing more options for seniors to receive
 timely and appropriate care right where they are.</p>
+<h4>Enhanced Home Personal Care (HPC+)&nbsp;</h4>
+<p>We are enhancing the home personal care services so that we can better
+support seniors to age-in-place in community, even as their needs increase.&nbsp;&nbsp;&nbsp;</p>
+<p>Under the HPC+ service, seniors can receive services to support their
+care in the community, such as assistance with showering and housekeeping.
+ It will also include a 24/7 technology-enabled monitoring and response
+element to detect falls and incidents, and provide timely support.&nbsp;</p>
+<p>MOH will progressively roll out HPC+ islandwide to better support more
+seniors. More information on the home personal care services can be found
+on the <a href="https://www.aic.sg/care-services/home-personal-care/" class="Hyperlink SCXW156099994 BCX8" rel="noreferrer noopener" target="_blank"><u>AIC website</u></a>.</p>
 <h4>Stay-in Shared Caregiving Sandbox</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20sandbox%20(2).jpg">
@@ -47,16 +57,7 @@ senior’s care needs. This reduces the need for multiple assessments and
 unnecessary referrals by different care providers.</p>
 <p>These efforts to improve coordination in the sector will take place progressively
 from the second half of 2024, and in consultation with stakeholders.</p>
-<h4>Enhanced Home Personal Care (HPC+)&nbsp;</h4>
-<p>We are enhancing the home personal care services so that we can better
-support seniors to age-in-place in community, even as their needs increase.&nbsp;&nbsp;&nbsp;</p>
-<p>Under the HPC+ service, seniors can receive services to support their
-care in the community, such as assistance with showering and housekeeping.
- It will also include a 24/7 technology-enabled monitoring and response
-element to detect falls and incidents, and provide timely support.&nbsp;</p>
-<p>MOH will progressively roll out HPC+ islandwide to better support more
-seniors. More information on the home personal care services can be found
-on the <a href="https://www.aic.sg/care-services/home-personal-care/" class="Hyperlink SCXW156099994 BCX8" rel="noreferrer noopener" target="_blank"><u>AIC website</u></a>.</p>
+<h4></h4>
 <h4>Support for Caregiver Training</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%202%20(2).png">
