@@ -57,7 +57,6 @@ senior’s care needs. This reduces the need for multiple assessments and
 unnecessary referrals by different care providers.</p>
 <p>These efforts to improve coordination in the sector will take place progressively
 from the second half of 2024, and in consultation with stakeholders.</p>
-<h4></h4>
 <h4>Support for Caregiver Training</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%202%20(2).png">
