@@ -15,6 +15,10 @@ homes and in their community.</p>
 to family members, we are developing more options for seniors to receive
 timely and appropriate care right where they are.</p>
 <h4>Enhanced Home Personal Care (HPC+)&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOH_20_Oct_2022___1791.jpg">
+</div>
 <p>We are enhancing the home personal care services so that we can better
 support seniors to age-in-place in community, even as their needs increase.&nbsp;&nbsp;&nbsp;</p>
 <p>Under the HPC+ service, seniors can receive services to support their
