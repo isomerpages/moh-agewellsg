@@ -67,4 +67,5 @@ on their SkillsFuture Credit to pay for eligible caregiver courses, to
 further reduce the cost of training. &nbsp;</p>
 <p>With these, we will scale up the number of subsidised training places
 for caregivers, to 4,400 each year across 200 courses.&nbsp;&nbsp;</p>
-<p><strong><a href="https://training-healthcare.vertis.digital/" class="Hyperlink SCXW151840351 BCX8" rel="noreferrer noopener" target="_blank"><u>Sign up for a caregiving course via AIC’s website</u></a><u>!</u></strong>&nbsp;</p>
+<p><strong><a href="https://training-healthcare.vertis.digital/" rel="noopener noreferrer nofollow" target="_blank">Sign up for a caregiving course via AIC’s website!</a></strong>
+</p>
