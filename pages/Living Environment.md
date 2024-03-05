@@ -41,16 +41,20 @@ To provide more assisted living options for seniors to age in place, we will ram
  ![](/images/friendly_streets_initiative_2_.jpg)
 *Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
 
-With our Friendly Streets initiative, we are also doing more to further enhance safety and convenience for residents, especially seniors, to move around their neighbourhoods, and encourage more active lifestyles. 
+With our Friendly Streets initiative, we are doing more to further enhance safety and convenience for residents, especially seniors, to move around their neighbourhoods, and encourage more active lifestyles.   
 
-The Ministry of Transport (MOT) and the Land Transport Authority (LTA) target to expand the Friendly Streets initiative to all towns by 2030.
+Launched in 2023, the initiative aims to make the walking and cycling experience to markets, hawker centres and MRT stations in neighbourhoods even more comfortable, convenient and safe. All five pilot sites – Ang Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - are near key amenities and see high pedestrian flows.   
 
-The Friendly Streets initiative was launched during MOT’s Committee of Supply this year to create more inclusive and pedestrian-friendly neighbourhoods. All five pilot sites – Ang Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast – are near key amenities such as markets, hawker centres, community clubs, and schools, and see high pedestrian flows. Friendly Streets will include features such as barrier-free crossings, more frequent and longer Green Man activations, and traffic calming measures to slow vehicles down. 
-
-Each pilot is spearheaded by a taskforce, made up of the local Advisers, representatives from relevant government agencies, the Town Council and grassroots leaders. LTA has been working closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We have also engaged residents and community stakeholders to share preliminary plans, and seek feedback on these plans for each location. The community welcomed the Friendly Streets in their neighbourhoods. LTA will take in the feedback received before starting construction on the pilot locations progressively from end 2023.
-
-Building on this momentum, we are expanding the Friendly Streets initiative to cover more towns so that it would benefit more residents including seniors in the years ahead. We will take into account learning points from the pilot locations, and continue to work closely with the local communities to implement Friendly Streets in other towns.
+There will be features like longer and more frequent green man signs, raised zebra crossings and barrier-free pedestrian crossings such as kerbless crossings, so our seniors and families with young children have more time to cross the road. It will also include traffic calming measures such as road humps to slow vehicles down.
 
  
 ![](/images/Picture4.png)
-*Before and after visual of the Friendly Streets at Tampines Ave 9*
+ Street signs, green road surface markings and kerbless crossings
+
+Each pilot is spearheaded by a taskforce, comprising grassroots leaders and representatives from relevant government agencies. LTA had worked closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We had also engaged residents and community stakeholders to seek feedback on the plans for each location.  
+
+
+Building on the community’s positive feedback from our five pilot sites, we are expanding the Friendly Streets initiative to all HDB towns by 2030, as well as to private estates with high-activity areas and key amenities nearby.  
+
+
+We are working towards introducing Friendly Streets at 10 new locations -- Bedok, Buangkok, Bukit Panjang, Choa Chu Kang, Jurong East, Pek Kio, Punggol, Holland/Buona Vista, Sembawang and Tiong Bahru/Havelock. These locations have a higher proportion of seniors or young families who will especially benefit from the convenience and having safer roads. We will take into account learning points from the pilot locations, and continue to work closely with the local communities as we implement Friendly Streets in more towns.
