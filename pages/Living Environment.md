@@ -58,3 +58,11 @@ Building on the community’s positive feedback from our five pilot sites, we ar
 
 
 We are working towards introducing Friendly Streets at 10 new locations -- Bedok, Buangkok, Bukit Panjang, Choa Chu Kang, Jurong East, Pek Kio, Punggol, Holland/Buona Vista, Sembawang and Tiong Bahru/Havelock. These locations have a higher proportion of seniors or young families who will especially benefit from the convenience and having safer roads. We will take into account learning points from the pilot locations, and continue to work closely with the local communities as we implement Friendly Streets in more towns.
+
+##### Enhanced Commuter Infrastructure 
+##### 
+In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
+
+###### More bus stops with senior-friendly features 
+###### 
+Artist Impression of upgraded bus stops
