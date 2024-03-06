@@ -70,8 +70,7 @@ We are working towards introducing Friendly Streets at 10 new locations -- Bedok
 
 In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
 
-**More bus stops with senior-friendly features
-**
+**More bus stops with senior-friendly features**
 
 ![](/images/Artist_impression_of_upgraded_bus_stop.png)
 *Artist Impression of upgraded bus stops*
