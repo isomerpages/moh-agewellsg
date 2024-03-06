@@ -13,9 +13,9 @@ sections:
         - title: Active Ageing
           description: Active ageing in the community
           url: /active-ageing
-        - title: Strengthened care support
+        - title: Care support
           description: Support seniors and caregivers
-          url: /strengthened-care-support/
+          url: /care-support/
         - title: Living Environment
           description: Senior-friendly environment
           url: /living-environment
