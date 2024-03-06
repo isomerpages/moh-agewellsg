@@ -55,8 +55,8 @@ There will be features like longer and more frequent green man signs, raised zeb
 
  
 ![](/images/Picture4.png)
- Street signs, green road surface markings and kerbless crossings
-
+* Street signs, green road surface markings and kerbless crossings
+*
 Each pilot is spearheaded by a taskforce, comprising grassroots leaders and representatives from relevant government agencies. LTA had worked closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We had also engaged residents and community stakeholders to seek feedback on the plans for each location.  
 
 
@@ -68,13 +68,19 @@ We are working towards introducing Friendly Streets at 10 new locations -- Bedok
 ##### Enhanced Commuter Infrastructure 
 ##### 
 
+In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
+
+**More bus stops with senior-friendly features
+**
+
 ![](/images/Artist_impression_of_upgraded_bus_stop.png)
 *Artist Impression of upgraded bus stops*
 
 ![](/images/busstop.jpg)
+*Senior-friendly bus stop at Ang Mo Kio*
 
-In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
+![](/images/Completed_Covered_Linkway_to_transport_node_c.jpg)
+*More covered linkways to key transport nodes & amenities*
 
-###### More bus stops with senior-friendly features 
-###### 
-Artist Impression of upgraded bus stops
+![](/images/POB_AYE_Clementi.jpg)
+*More lifts at pedestrian overhead bridges in areas with high elderly population*
