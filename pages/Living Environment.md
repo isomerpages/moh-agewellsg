@@ -16,6 +16,9 @@ variant: markdown
 
 We are offering a wider range of senior-friendly fittings under the Enhancement for Active Seniors (EASE) programme. These include bidet sprays, foldable U-profile grab bars and lowered toilet entrance kerbs.
 
+From 1 April 2024, eligible flat owners can apply or opt for the new improvement items together with the Home Improvement Programme (HIP) or through the e-Service on HDB InfoWeb.
+
+![](/images/toilet.png)
 
 
 ##### At the HDB precincts and private residential estates #####
