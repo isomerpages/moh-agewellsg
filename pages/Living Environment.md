@@ -43,7 +43,6 @@ To provide more assisted living options for seniors to age in place, we will ram
 ![](/images/friendly_streets_initiative.jpg)
 *The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*  
 
-
  ![](/images/friendly_streets_initiative_2_.jpg)
 *Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
 
@@ -55,8 +54,8 @@ There will be features like longer and more frequent green man signs, raised zeb
 
  
 ![](/images/Picture4.png)
-* Street signs, green road surface markings and kerbless crossings
-*
+*Street signs, green road surface markings and kerbless crossings*
+
 Each pilot is spearheaded by a taskforce, comprising grassroots leaders and representatives from relevant government agencies. LTA had worked closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We had also engaged residents and community stakeholders to seek feedback on the plans for each location.  
 
 
@@ -65,8 +64,7 @@ Building on the community’s positive feedback from our five pilot sites, we ar
 
 We are working towards introducing Friendly Streets at 10 new locations -- Bedok, Buangkok, Bukit Panjang, Choa Chu Kang, Jurong East, Pek Kio, Punggol, Holland/Buona Vista, Sembawang and Tiong Bahru/Havelock. These locations have a higher proportion of seniors or young families who will especially benefit from the convenience and having safer roads. We will take into account learning points from the pilot locations, and continue to work closely with the local communities as we implement Friendly Streets in more towns.
 
-##### Enhanced Commuter Infrastructure 
-##### 
+##### Enhanced Commuter Infrastructure #####
 
 In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
 
