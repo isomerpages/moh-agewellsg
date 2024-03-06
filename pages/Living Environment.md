@@ -31,6 +31,7 @@ The roll-out will commence from January 2025, and will cover three rental blocks
 We will extend the fifth phase of the Neighbourhood Renewal Programme (NRP) to older HDB estates comprising blocks built up to 1999. This will benefit over 100,000 more flats. Under this new phase, we will also build more senior-friendly amenities that will better support seniors to age in place. 
 
 For older precincts that already underwent upgrading and are no longer eligible for further upgrading under the NRP, we will roll out similar senior-friendly enhancements to over 20 of such precincts in Ang Mo Kio, Bukit Merah, Queenstown and Toa Payoh over the next 5 years.
+
 Possible enhancements include therapeutic gardens, fitness trails, barrier-free access ramps and rest points, and dementia-friendly features to improve way-finding. These upgrading initiatives will complement Healthier SG to support seniors in leading an active lifestyle and will be gradually implemented over the next 5 years.
 
 Similar upgrading works will be carried out at selected older private residential estates, under the Estate Upgrading Programme (EUP). Additionally, we will identify and select estates with a higher concentration of seniors, including those that have benefited from EUP some time ago, for senior-friendly enhancements.
