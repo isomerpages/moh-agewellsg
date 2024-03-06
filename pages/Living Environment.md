@@ -20,6 +20,9 @@ From 1 April 2024, eligible flat owners can apply or opt for the new improvement
 
 ![](/images/toilet.png)
 
+To better support low-income and vulnerable seniors who may lack family support, we will extend the wireless Alert Alarm System (AAS) to all seniors aged 60 and above living in about 170 public rental blocks. This will benefit around 26, 800 more seniors.
+
+The roll-out will commence from January 2025, and will cover three rental blocks per month, starting with those that have a higher number of seniors, such as in Bukit Merah and Kallang-Whampoa.
 
 ##### At the HDB precincts and private residential estates #####
 
@@ -64,6 +67,12 @@ We are working towards introducing Friendly Streets at 10 new locations -- Bedok
 
 ##### Enhanced Commuter Infrastructure 
 ##### 
+
+![](/images/Artist_impression_of_upgraded_bus_stop.png)
+*Artist Impression of upgraded bus stops*
+
+![](/images/busstop.jpg)
+
 In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
 
 ###### More bus stops with senior-friendly features 
