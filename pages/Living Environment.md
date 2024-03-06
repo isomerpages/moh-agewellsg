@@ -14,9 +14,9 @@ variant: markdown
 
 ![](/images/ease-2.jpg)
 
-We are expanding the Enhancement for Active Seniors (EASE) programme, into EASE 2.0, which will offer a wider range of senior-friendly features. These include rocker switches, home fire alarm devices, handrails at multi-step flat entrances, foldable shower seats and widened toilet entrances for wheelchair users.
+We are offering a wider range of senior-friendly fittings under the Enhancement for Active Seniors (EASE) programme. These include bidet sprays, foldable U-profile grab bars and lowered toilet entrance kerbs.
 
-To better support low-income and vulnerable seniors who often lack family support, we will progressively expand the provision of the wireless Alert Alarm System (AAS) to all seniors aged 60 and above staying in public rental housing. 
+
 
 ##### At the HDB precincts and private residential estates #####
 
