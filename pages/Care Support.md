@@ -32,10 +32,10 @@ on the <a href="https://www.aic.sg/care-services/home-personal-care/" class="Hyp
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20sandbox%20(2).jpg">
 </div>
-<p>&nbsp;In September 2023, MOH and the Agency for Integrated Care (AIC),
-with support from the Ministry of Manpower (MOM), launched applications
-for a sandbox to explore the viability of new stay-in shared caregiving
-models for seniors. &nbsp;</p>
+<p>In September 2023, MOH and the Agency for Integrated Care (AIC), with
+support from the Ministry of Manpower (MOM), launched applications for
+a sandbox to explore the viability of new stay-in shared caregiving models
+for seniors. &nbsp;</p>
 <p>This will mitigate the impact on family caregiving that shrinking family
 sizes have brought about and offer more options for seniors, especially
 those living alone, to age in the community with care support.&nbsp;&nbsp;</p>
