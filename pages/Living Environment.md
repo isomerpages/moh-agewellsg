@@ -14,15 +14,23 @@ variant: markdown
 
 ![](/images/ease-2.jpg)
 
-We are expanding the Enhancement for Active Seniors (EASE) programme, into EASE 2.0, which will offer a wider range of senior-friendly features. These include rocker switches, home fire alarm devices, handrails at multi-step flat entrances, foldable shower seats and widened toilet entrances for wheelchair users.
+We are offering a wider range of senior-friendly fittings under the Enhancement for Active Seniors (EASE) programme. These include bidet sprays, foldable U-profile grab bars and lowered toilet entrance kerbs.
 
-To better support low-income and vulnerable seniors who often lack family support, we will progressively expand the provision of the wireless Alert Alarm System (AAS) to all seniors aged 60 and above staying in public rental housing. 
+From 1 April 2024, eligible flat owners can apply or opt for the new improvement items together with the Home Improvement Programme (HIP) or through the e-Service on HDB InfoWeb.
+
+![](/images/toilet.png)
+
+To better support low-income and vulnerable seniors who may lack family support, we will extend the wireless Alert Alarm System (AAS) to all seniors aged 60 and above living in about 170 public rental blocks. This will benefit around 26, 800 more seniors.
+
+The roll-out will commence from January 2025, and will cover three rental blocks per month, starting with those that have a higher number of seniors, such as in Bukit Merah and Kallang-Whampoa.
 
 ##### At the HDB precincts and private residential estates #####
 
 ![](/images/seniorfriendly%20(2).jpg)
 
-We will progressively roll out senior-centric upgrading works to over 20 older precincts with a higher density of seniors in Ang Mo Kio, Bukit Merah, Queenstown and Toa Payoh. 
+We will extend the fifth phase of the Neighbourhood Renewal Programme (NRP) to older HDB estates comprising blocks built up to 1999. This will benefit over 100,000 more flats. Under this new phase, we will also build more senior-friendly amenities that will better support seniors to age in place. 
+
+For older precincts that already underwent upgrading and are no longer eligible for further upgrading under the NRP, we will roll out similar senior-friendly enhancements to over 20 of such precincts in Ang Mo Kio, Bukit Merah, Queenstown and Toa Payoh over the next 5 years.
 
 Possible enhancements include therapeutic gardens, fitness trails, barrier-free access ramps and rest points, and dementia-friendly features to improve way-finding. These upgrading initiatives will complement Healthier SG to support seniors in leading an active lifestyle and will be gradually implemented over the next 5 years.
 
@@ -37,20 +45,41 @@ To provide more assisted living options for seniors to age in place, we will ram
 ![](/images/friendly_streets_initiative.jpg)
 *The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians*  
 
-
  ![](/images/friendly_streets_initiative_2_.jpg)
 *Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists*
 
-With our Friendly Streets initiative, we are also doing more to further enhance safety and convenience for residents, especially seniors, to move around their neighbourhoods, and encourage more active lifestyles. 
+With our Friendly Streets initiative, we are doing more to further enhance safety and convenience for residents, especially seniors, to move around their neighbourhoods, and encourage more active lifestyles.   
 
-The Ministry of Transport (MOT) and the Land Transport Authority (LTA) target to expand the Friendly Streets initiative to all towns by 2030.
+Launched in 2023, the initiative aims to make the walking and cycling experience to markets, hawker centres and MRT stations in neighbourhoods even more comfortable, convenient and safe. All five pilot sites – Ang Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - are near key amenities and see high pedestrian flows.   
 
-The Friendly Streets initiative was launched during MOT’s Committee of Supply this year to create more inclusive and pedestrian-friendly neighbourhoods. All five pilot sites – Ang Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast – are near key amenities such as markets, hawker centres, community clubs, and schools, and see high pedestrian flows. Friendly Streets will include features such as barrier-free crossings, more frequent and longer Green Man activations, and traffic calming measures to slow vehicles down. 
-
-Each pilot is spearheaded by a taskforce, made up of the local Advisers, representatives from relevant government agencies, the Town Council and grassroots leaders. LTA has been working closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We have also engaged residents and community stakeholders to share preliminary plans, and seek feedback on these plans for each location. The community welcomed the Friendly Streets in their neighbourhoods. LTA will take in the feedback received before starting construction on the pilot locations progressively from end 2023.
-
-Building on this momentum, we are expanding the Friendly Streets initiative to cover more towns so that it would benefit more residents including seniors in the years ahead. We will take into account learning points from the pilot locations, and continue to work closely with the local communities to implement Friendly Streets in other towns.
+There will be features like longer and more frequent green man signs, raised zebra crossings and barrier-free pedestrian crossings such as kerbless crossings, so our seniors and families with young children have more time to cross the road. It will also include traffic calming measures such as road humps to slow vehicles down.
 
  
 ![](/images/Picture4.png)
-*Before and after visual of the Friendly Streets at Tampines Ave 9*
+*Street signs, green road surface markings and kerbless crossings*
+
+Each pilot is spearheaded by a taskforce, comprising grassroots leaders and representatives from relevant government agencies. LTA had worked closely with the respective taskforces on the features and traffic measures to be implemented in each pilot site. We had also engaged residents and community stakeholders to seek feedback on the plans for each location.  
+
+
+Building on the community’s positive feedback from our five pilot sites, we are expanding the Friendly Streets initiative to all HDB towns by 2030, as well as to private estates with high-activity areas and key amenities nearby.  
+
+
+We are working towards introducing Friendly Streets at 10 new locations -- Bedok, Buangkok, Bukit Panjang, Choa Chu Kang, Jurong East, Pek Kio, Punggol, Holland/Buona Vista, Sembawang and Tiong Bahru/Havelock. These locations have a higher proportion of seniors or young families who will especially benefit from the convenience and having safer roads. We will take into account learning points from the pilot locations, and continue to work closely with the local communities as we implement Friendly Streets in more towns.
+
+##### Enhanced Commuter Infrastructure #####
+
+In support of Age Well SG, we will enhance our commuter infrastructure, to make walking to key public transport nodes more convenient, comfortable and accessible, especially for seniors. Residents will benefit from more covered linkways, upgraded bus stops with senior-friendly features, and more pedestrian overhead bridges with lifts. Besides helping seniors stay socially connected and active, these will create more comfortable and safer commutes for all. 
+
+**More bus stops with senior-friendly features**
+
+![](/images/Artist_impression_of_upgraded_bus_stop.png)
+*Artist Impression of upgraded bus stops*
+
+![](/images/busstop.jpg)
+*Senior-friendly bus stop at Ang Mo Kio*
+
+![](/images/Completed_Covered_Linkway_to_transport_node_c.jpg)
+*More covered linkways to key transport nodes & amenities*
+
+![](/images/POB_AYE_Clementi.jpg)
+*More lifts at pedestrian overhead bridges in areas with high elderly population*
