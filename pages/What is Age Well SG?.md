@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/what%20is%20age%20well.jpg">
 </div>
-<p><strong>Age Well SG is a national programme led by MOH, MND and MOT to support seniors to age well in their homes and their communities. It aims to tackle social isolation, which is a key determinant of frailty, and empower seniors to age actively and independently.</strong>
+<p><strong>Age Well SG is a national programme led by the Ministry of Health, Ministry of National Development and Ministry of Transport to support seniors to age well in their homes and their communities. It aims to support our seniors to age actively, stay socially connected, and be cared for within their communities.</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IdWSpat3Uq0?si=bWU6OlAR2nomSl4x&amp;start=759"></iframe>
