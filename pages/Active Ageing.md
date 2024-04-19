@@ -58,15 +58,16 @@ that require a small fee for participation.</p>
 </div>
 <p>AACs will also offer more opportunities for seniors to volunteer, keeping
 them active, purposeful and involved in their community.</p>
-<p>Seniors can organise and run active ageing programmes for other seniors,
-such as preparing meals for communal dining for fellow seniors, and befriending
-or buddying seniors who are at risk of social isolation.</p>
-<p>AIC will provide training to equip seniors with the necessary skills,
-before matching senior volunteers to diverse volunteering opportunities
-at the AACs.</p>
+<p>There is a wide range of volunteering opportunities for seniors with varying
+interests. Senior volunteers can organise active ageing programmes for
+fellow seniors, such as simple exercise programmes, preparing meals for
+communal dining, and befriending seniors who are at risk of social isolation.</p>
+<p>AIC will provide training through the Silver Guardian programme to equip
+seniors with the necessary skills, before matching senior volunteers to
+diverse volunteering opportunities at the AACs.</p>
 <p>We aim to double the number of senior volunteers trained by AIC to around
 4,000 senior volunteers by 2025.</p>
-<p><a href="https://for.sg/aac-volunteer-application" rel="noopener noreferrer nofollow" target="_blank">Sign up as a volunteer today!</a>
+<p><a href="https://aic.sg/silver-guardian" rel="noopener noreferrer nofollow" target="_blank">Sign up as a Silver Guardian today!</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaclogo.PNG">
