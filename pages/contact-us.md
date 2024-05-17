@@ -8,7 +8,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: 'For feedback on active ageing and support for seniors, visit: <br><a
-          href="www.moh.gov.sg/feedback">www.moh.gov.sg/feedback </a>'
+          href="www.moh.gov.sg/feedback">www.moh.gov.sg/feedback</a>'
     title: Ministry of Health
   - content:
       - phone: ""
