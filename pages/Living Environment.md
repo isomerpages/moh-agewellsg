@@ -35,16 +35,12 @@ such as in Bukit Merah and Kallang-Whampoa.</p>
 living in private residential properties to engage in their daily activities
 safely and comfortably. Hence, MND will expand the EASE programme &nbsp;to
 private residential properties.</p>
-<p>·&nbsp;&nbsp;Singapore Citizen households living in private properties,
-with at least one senior, ill be eligible to engage a contractor, to supply
-and install senior-friendly fittings that will be made available under
-the EASE (Private).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EASE (Private) will
-be rolled out as a three-year programme, and it is targeted to be launched
-by the first quarter of 2026. More details can be found on <a href="https://www.mnd.gov.sg/newsroom/parliament-matters/speeches/view/speech-by-minister-desmond-lee-at-the-committee-of-supply-debate" rel="noopener noreferrer nofollow" target="_blank">MND’s website</a>.</p>
-<hr>
-<p><a href="#_msoanchor_1" rel="noopener noreferrer nofollow" target="_blank">[VH(1]</a>To
-include a new sub category after "Within HDB flats"</p>
+<p>Singapore Citizen households living in private properties, with at least
+one senior, ill be eligible to engage a contractor, to supply and install
+senior-friendly fittings that will be made available under the EASE (Private).</p>
+<p>EASE (Private) will be rolled out as a three-year programme, and it is
+targeted to be launched by the first quarter of 2026. More details can
+be found on <a href="https://www.mnd.gov.sg/newsroom/parliament-matters/speeches/view/speech-by-minister-desmond-lee-at-the-committee-of-supply-debate" rel="noopener noreferrer nofollow" target="_blank">MND’s website</a>.</p>
 <h5>At the HDB precincts and private residential estates</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorfriendly%20(2).jpg">
@@ -68,12 +64,20 @@ residential estates, under the Estate Upgrading Programme (EUP). Additionally,
 we will identify and select estates with a higher concentration of seniors,
 including those that have benefited from EUP some time ago, for senior-friendly
 enhancements.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20(2).jpg">
-</div>
 <p>To provide more assisted living options for seniors to age in place, we
 will ramp up the supply of Community Care Apartments (CCAs). Seniors living
 in CCAs can enjoy convenient access to various amenities.</p>
+<p>CCA is a public housing typology that pairs senior-friendly housing with
+on-site social activities and care services that can be customised according
+to the senior’s care needs. Seniors living in CCAs will be supported by
+a community manager who will facilitate light social programming, basic
+health checks, assistance with simple household fixes, and round-the-clock
+emergency response service.</p>
+<p>The first CCA at Bukit Batok (Harmony Village) was completed in 2024.</p>
+<p>To find out more about the CCAs, <a href="https://www.hdb.gov.sg/residential/buying-a-flat/finding-a-flat/types-of-flats/community-care-apartments" rel="noopener nofollow" target="_blank">click here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20(2).jpg">
+</div>
 <h5>Friendly Streets</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_streets_initiative.jpg">
@@ -85,14 +89,14 @@ in CCAs can enjoy convenient access to various amenities.</p>
 </div>
 <p><em>Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists</em>
 </p>
-<p>With our Friendly Streets initiative, we are doing more to further enhance
+<p>With the Friendly Streets initiative, MOT is doing more to further enhance
 safety and convenience for residents, especially seniors, to move around
 their neighbourhoods, and encourage more active lifestyles.</p>
-<p>Launched in 2023, the initiative aims to make the walking and cycling
+<p>Launched in 2023 by MOT, the initiative aims to make the walking and cycling
 experience to markets, hawker centres and MRT stations in neighbourhoods
 even more comfortable, convenient and safe. All five pilot sites – Ang
-Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - are near
-key amenities and see high pedestrian flows.</p>
+Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - which are
+near key amenities and see high pedestrian flows, have been completed.</p>
 <p>There will be features like longer and more frequent green man signs,
 raised zebra crossings and barrier-free pedestrian crossings such as kerbless
 crossings, so our seniors and families with young children have more time
@@ -135,18 +139,21 @@ commutes for all.</p>
 </div>
 <p><em>Artist Impression of upgraded bus stops</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/busstop.jpg">
-</div>
-<p><em>Senior-friendly bus stop at Ang Mo Kio</em>
+<p><em>Senior-friendMore bus stops will be upgraded with senior-friendly features such as seats with a backrest or arm rest. Other features such as wheelchair accessibility and back or side panels at the bus stop as rain screens for better weather protection will make it more comfortable for seniors when they are waiting for a bus.</em>
+</p>
+<p></p>
+<p><em>More covered linkways to key transport nodes &amp; amenities</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Completed_Covered_Linkway_to_transport_node_c.jpg">
 </div>
-<p><em>More covered linkways to key transport nodes &amp; amenities</em>
+<p>LTA will be building covered linkways to connect MRT stations to Friendly
+Streets and key amenities that are largely within an 800-metre radius of
+major transport nodes.&nbsp;</p>
+<p><em>More lifts at pedestrian overhead bridges</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/POB_AYE_Clementi.jpg">
 </div>
-<p><em>More lifts at pedestrian overhead bridges in areas with high elderly population</em>
+<p><em>LTA has been retrofitting lifts for pedestrian overhead bridges near major transport nodes and healthcare institutions. Going forward, we will expand our coverage to retrofit more POBs at areas with many seniors.</em>
 </p>
