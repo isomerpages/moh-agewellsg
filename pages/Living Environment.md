@@ -16,13 +16,25 @@ variant: markdown
 
 We are offering a wider range of senior-friendly fittings under the Enhancement for Active Seniors (EASE) programme. These include bidet sprays, foldable U-profile grab bars and lowered toilet entrance kerbs.
 
-From 1 April 2024, eligible flat owners can apply or opt for the new improvement items together with the Home Improvement Programme (HIP) or through the e-Service on HDB InfoWeb.
+Eligible flat owners can apply or opt for the new improvement items together with the Home Improvement Programme (HIP) or through the e-Service on HDB InfoWeb.
 
 ![](/images/toilet.png)
 
 To better support low-income and vulnerable seniors who may lack family support, we will extend the wireless Alert Alarm System (AAS) to all seniors aged 60 and above living in about 170 public rental blocks. This will benefit around 26, 800 more seniors.
 
 The roll-out will commence from January 2025, and will cover three rental blocks per month, starting with those that have a higher number of seniors, such as in Bukit Merah and Kallang-Whampoa.
+
+##### Within private residential properties
+
+To support ageing-in-place, we also want to do more to allow our seniors living in private residential properties to engage in their daily activities safely and comfortably. Hence, MND will expand the EASE programme  to private residential properties.
+
+·         Singapore Citizen households living in private properties, with at least one senior, will be eligible to engage a contractor, to supply and install senior-friendly fittings that will be made available under the EASE (Private).
+
+·         EASE (Private) will be rolled out as a three-year programme, and it is targeted to be launched by the first quarter of 2026. More details can be found on [MND’s website](https://www.mnd.gov.sg/newsroom/parliament-matters/speeches/view/speech-by-minister-desmond-lee-at-the-committee-of-supply-debate).
+
+* * *
+
+ [\[VH(1\]](#_msoanchor_1)To include a new sub category after "Within HDB flats"
 
 ##### At the HDB precincts and private residential estates #####
 
