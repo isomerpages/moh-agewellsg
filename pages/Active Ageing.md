@@ -51,24 +51,4 @@ assistance to find your nearest AAC.&nbsp;</p>
 <p>Most activities offered by the AACs are free for seniors to enjoy. However,
 depending on the service provider, there may be some unique activities
 that require a small fee for participation.</p>
-<h4>Keen to share a skill, or support fellow seniors?</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/extra_bedok%20radiance%20food%20delivery%20(2).jpg">
-</div>
-<p>AACs will also offer more opportunities for seniors to volunteer, keeping
-them active, purposeful and involved in their community.</p>
-<p>There is a wide range of volunteering opportunities for seniors with varying
-interests. Senior volunteers can organise active ageing programmes for
-fellow seniors, such as simple exercise programmes, preparing meals for
-communal dining, and befriending seniors who are at risk of social isolation.</p>
-<p>AIC will provide training through the Silver Guardian programme to equip
-seniors with the necessary skills, before matching senior volunteers to
-diverse volunteering opportunities at the AACs.</p>
-<p>We aim to double the number of senior volunteers trained by AIC to around
-4,000 senior volunteers by 2025.</p>
-<p><a href="https://aic.sg/silver-guardian" rel="noopener noreferrer nofollow" target="_blank">Sign up as a Silver Guardian today!</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaclogo.PNG">
-</div>
 <p></p>
