@@ -97,33 +97,30 @@ experience to markets, hawker centres and MRT stations in neighbourhoods
 even more comfortable, convenient and safe. All five pilot sites – Ang
 Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - which are
 near key amenities and see high pedestrian flows, have been completed.</p>
-<p>There will be features like longer and more frequent green man signs,
-raised zebra crossings and barrier-free pedestrian crossings such as kerbless
-crossings, so our seniors and families with young children have more time
-to cross the road. It will also include traffic calming measures such as
-road humps to slow vehicles down.</p>
+<p>At Friendly Streets, speed limits are lowered to 40km/h and are complemented
+with traffic calming measures such as road humps and narrower roads to
+slow down vehicles. There are also pedestrian-friendly features like longer
+and more frequent green man time to cross roads, raised zebra crossings
+and barrier-free pedestrian crossings such as kerbless crossings. These
+features make it easier for our seniors and families with young children
+to get around.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_25_at_2_24_59_PM.png">
 </div>
-<p><em>Street signs, green road surface markings and kerbless crossings</em>
-</p>
-<p>Each pilot is spearheaded by a taskforce, comprising grassroots leaders
-and representatives from relevant government agencies. LTA had worked closely
-with the respective taskforces on the features and traffic measures to
-be implemented in each pilot site. We had also engaged residents and community
-stakeholders to seek feedback on the plans for each location.</p>
-<p>Building on the community’s positive feedback from our five pilot sites,
-we are expanding the Friendly Streets initiative to all HDB towns by 2030,
-as well as to private estates with high-activity areas and key amenities
-nearby.</p>
-<p>We are working towards introducing Friendly Streets at 10 new locations
--- Bedok, Buangkok, Bukit Panjang, Choa Chu Kang, Jurong East, Pek Kio,
-Punggol, Holland/Buona Vista, Sembawang and Tiong Bahru/Havelock. These
-locations have a higher proportion of seniors or young families who will
-especially benefit from the convenience and having safer roads. We will
-take into account learning points from the pilot locations, and continue
-to work closely with the local communities as we implement Friendly Streets
-in more towns.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_25_at_2_21_22_PM.png">
+</div>
+<p>Building on the positive feedback from our pilot sites, we are expanding
+the Friendly Streets initiative to all towns by 2030. We have completed
+engagements and are progressively starting infrastructure works for the
+<a href="https://www.mot.gov.sg/news/speeches" rel="noopener noreferrer nofollow" target="_blank"><u>10 Friendly Streets announced in 2024</u>
+</a>. We will take into account learning points from the pilot locations,
+and continue to work closely with the local communities as we implement
+Friendly Streets in more towns.&nbsp;&nbsp;</p>
+<p>In 2025, we launched <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2025/3/news-releases/friendlier_and_safer_walk_cycle_ride_journeys.html" rel="noopener noreferrer nofollow" target="_blank"><u>15 more locations islandwide</u></a>.
+These locations include both public and private estates and have a higher
+proportion of seniors and/or young families who will benefit greatly from
+the convenience and having safer roads.&nbsp;</p>
 <h5>Enhanced Commuter Infrastructure</h5>
 <p>In support of Age Well SG, we will enhance our commuter infrastructure,
 to make walking to key public transport nodes more convenient, comfortable
@@ -132,16 +129,13 @@ covered linkways, upgraded bus stops with senior-friendly features, and
 more pedestrian overhead bridges with lifts. Besides helping seniors stay
 socially connected and active, these will create more comfortable and safer
 commutes for all.</p>
-<p><strong>More bus stops with senior-friendly features</strong>
+<p><em>Senior-friendly bus stop at Ang Mo Kio</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artist_impression_of_upgraded_bus_stop.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/busstop.jpg">
 </div>
-<p><em>Artist Impression of upgraded bus stops</em>
+<p><em>More bus stops will be upgraded with senior-friendly features such as seats with a backrest or arm rest. Other features such as wheelchair accessibility and back or side panels at the bus stop as rain screens for better weather protection will make it more comfortable for seniors when they are waiting for a bus.</em>
 </p>
-<p><em>Senior-friendMore bus stops will be upgraded with senior-friendly features such as seats with a backrest or arm rest. Other features such as wheelchair accessibility and back or side panels at the bus stop as rain screens for better weather protection will make it more comfortable for seniors when they are waiting for a bus.</em>
-</p>
-<p></p>
 <p><em>More covered linkways to key transport nodes &amp; amenities</em>
 </p>
 <div class="isomer-image-wrapper">
