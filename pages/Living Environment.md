@@ -79,13 +79,15 @@ emergency response service.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20(2).jpg">
 </div>
 <h5>Friendly Streets</h5>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_streets_initiative.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs1.png">
 </div>
 <p><em>The green road markings serve to remind motorists that they are entering a “Friendly Street” and they should lower their speed and look out for pedestrians</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_streets_initiative_2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs2.png">
 </div>
 <p><em>Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists</em>
 </p>
