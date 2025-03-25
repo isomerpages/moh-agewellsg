@@ -25,50 +25,49 @@ support seniors to age-in-place in community, even as their needs increase.&nbsp
 care in the community, such as assistance with showering and housekeeping.
  It will also include a 24/7 technology-enabled monitoring and response
 element to detect falls and incidents, and provide timely support.&nbsp;</p>
-<p>MOH will progressively roll out HPC+ islandwide to better support more
+<p>MOH will mainstream HPC+ island-wide by end-2025 to better support more
 seniors. More information on the home personal care services can be found
-on the <a href="https://www.aic.sg/care-services/home-personal-care/" class="Hyperlink SCXW156099994 BCX8" rel="noreferrer noopener" target="_blank"><u>AIC website</u></a>.</p>
-<h4>Stay-in Shared Caregiving Sandbox</h4>
+on the <a href="https://www.aic.sg/care-services/home-personal-care/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>.</p>
+<h4>Shared Stay-in Senior Care Services</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20sandbox%20(2).jpg">
 </div>
-<p>In September 2023, MOH and the Agency for Integrated Care (AIC), with
-support from the Ministry of Manpower (MOM), launched applications for
-a sandbox to explore the viability of new stay-in shared caregiving models
-for seniors. &nbsp;</p>
-<p>This will mitigate the impact on family caregiving that shrinking family
-sizes have brought about and offer more options for seniors, especially
-those living alone, to age in the community with care support.&nbsp;&nbsp;</p>
-<p>Four companies have been onboarded onto the sandbox and will be receiving
-foreign manpower concessions to overcome manpower challenges. More information
-on the sandbox can be found the <a href="https://www.aic.sg/partners/pilot-projects-and-programmes/" class="Hyperlink SCXW5267923 BCX8" rel="noreferrer noopener" target="_blank"><u>AIC website</u></a>.&nbsp;</p>
+<p>The Shared Stay-in Senior Care Services is a care model where a caregiver
+assists a group of seniors with their activities of daily living and social
+programmes in a shared premises, similar to how families would provide
+caregiving for their loved ones. Service providers enjoy work pass flexibilities
+to support a sustainable model of manpower deployment to care for seniors
+round-the-clock.&nbsp;</p>
+<p>
+<br>Service providers, families and seniors can refer to the guide on the
+recommended good practices when providing or seeking such a service. More
+information on the application details for interested service providers
+and the good practice guide can be found on the <a href="https://www.aic.sg/partners/pilot-projects-and-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>from
+the second half of 2025.</p>
 <h4>Seamless delivery of care</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%201%20(2).jpeg">
 </div>
 <p>Today, seniors with multiple care needs may have to interact with multiple
 care providers and undergo repeated assessments from each provider. For
-example, they may need to interact with a day care centre, and also home
-care provider.</p>
-<p>We will help seniors and their caregivers have a more seamless care journey
-by having a single point of contact to meet their multiple care needs from
-various providers. The point of contact will perform the role of a single
-bundled service provider, coordinating care across service providers for
-the seniors.</p>
-<p>It will use a standardised care assessment tool, to plan and address the
-senior’s care needs. This reduces the need for multiple assessments and
-unnecessary referrals by different care providers.</p>
-<p>These efforts to improve coordination in the sector will take place progressively
-from the second half of 2024, and in consultation with stakeholders.</p>
+example, they may need to interact with a day care centre, and a home care
+provider.</p>
+<p>To provide a more seamless care journey for seniors and their caregivers,
+we will appoint an Integrated Community Care Provider (ICCP) to oversee
+care coordination for each region. We have been in consultation with key
+stakeholders and many of our sector partners are supportive of this effort.&nbsp;</p>
+<p>We will encourage existing providers to come together and form partnerships
+to perform the ICCP functions, and are working towards implementing this
+across Singapore by 2026.</p>
 <h4>Support for Caregiver Training</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%202%20(2).png">
 </div>
-<p>From 1 April 2024, caregivers can tap on up to $400 in <a href="https://www.aic.sg/financial-assistance/caregivers-training-grant-ctg/" class="Hyperlink SCXW151840351 BCX8" rel="noreferrer noopener" target="_blank"><u>Caregivers’ Training Grant (CTG)</u></a> subsidies
+<p>Caregivers can tap on up to $400 in <a href="https://www.aic.sg/financial-assistance/caregivers-training-grant-ctg/" rel="noopener noreferrer nofollow" target="_blank"><u>Caregivers’ Training Grant (CTG)</u></a> subsidies
 per year, double that of $200 today. We will also allow caregivers to tap
 on their SkillsFuture Credit to pay for eligible caregiver courses, to
-further reduce the cost of training. &nbsp;</p>
+further reduce the cost of training.&nbsp;</p>
 <p>With these, we will scale up the number of subsidised training places
-for caregivers, to 4,400 each year across 200 courses.&nbsp;&nbsp;</p>
+for caregivers, to 4,400 each year across 200 courses.</p>
 <p><strong><a href="https://training-healthcare.vertis.digital/" rel="noopener noreferrer nofollow" target="_blank">Sign up for a caregiving course via AIC’s website!</a></strong>
 </p>
