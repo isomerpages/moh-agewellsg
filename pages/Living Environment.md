@@ -115,7 +115,7 @@ to get around.</p>
 <p>Building on the positive feedback from our pilot sites, we are expanding
 the Friendly Streets initiative to all towns by 2030. We have completed
 engagements and are progressively starting infrastructure works for the
-<a href="https://www.mot.gov.sg/news/speeches" rel="noopener noreferrer nofollow" target="_blank"><u>10 Friendly Streets announced in 2024</u>
+<a href="https://www.mot.gov.sg/news/speeches/Details/speech-by-senior-minister-of-state-for-transport--dr-amy-khor-on-the-launch-of-10-new-friendly-streets" rel="noopener noreferrer nofollow" target="_blank"><u>10 Friendly Streets announced in 2024</u>
 </a>. We will take into account learning points from the pilot locations,
 and continue to work closely with the local communities as we implement
 Friendly Streets in more towns.&nbsp;&nbsp;</p>
