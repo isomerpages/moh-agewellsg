@@ -37,9 +37,8 @@ assists a group of seniors with their activities of daily living and social
 programmes in a shared premises, similar to how families would provide
 caregiving for their loved ones. Service providers enjoy work pass flexibilities
 to support a sustainable model of manpower deployment to care for seniors
-round-the-clock.&nbsp;</p>
-<p>
-<br>Service providers, families and seniors can refer to the guide on the
+round-the-clock.</p>
+<p>Service providers, families and seniors can refer to the guide on the
 recommended good practices when providing or seeking such a service. More
 information on the application details for interested service providers
 and the good practice guide can be found on the <a href="https://www.aic.sg/partners/pilot-projects-and-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>from
