@@ -14,25 +14,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniors%20singing%20(2).jpg">
 </div>
-<p>We are scaling up the number of AACs from 157 today to 220 by 2025, so
-that 8 in 10 seniors will have an AAC near their homes.</p>
-<p>To further improve accessibility, we will leverage community spaces beyond
-the AAC premises, such as by co-using Residents’ Networks (RN).</p>
-<p>We will strengthen the programmes offered by AACs through standardised
-evidence-informed initiatives across five key domains of social, physical
-health, cognitive, learning and volunteerism.</p>
+<p>With 223 AACs island wide, 8 in 10 seniors now have access to a centre
+near their home. We will continue to expand the AAC network to reach more
+seniors in the community.</p>
+<p>To further improve accessibility, AACs provide their programmes beyond
+the confines of their centres, including at Residents’ Networks, sports
+centres and void decks.</p>
+<p>AACs also offer a wide range of programmes across five key domains of
+social, physical health, cognitive, learning and volunteerism.</p>
 <p>These include befriending services, group physical activities and other
 active ageing programmes, and social support for vulnerable seniors. These
 evidence-informed programmes cater to all seniors, with different programmes
 designed for different needs.</p>
 <p>AACs will encourage seniors to be engaged through activities, such as
 communal meals, as a starting point to foster social interactions and reduce
-social isolation. The Silver Generation Office (SGO) will also prioritise
-outreach to seniors at greater risk of social isolation and frailty and
-encourage them to join their neighbourhood AACs.</p>
-<p>To do so, MOH will dedicate around $800 million from FY2024 to FY2028,
-to better resource AACs to connect to a significantly larger pool of seniors,
-so as to achieve our vision of seniors ageing well in their homes and communities.</p>
+social isolation.</p>
+<p>The Silver Generation Office (SGO) will also prioritise outreach to seniors
+at greater risk of social isolation and frailty and encourage them to join
+their neighbourhood AACs.</p>
 <h4>Can I attend an AAC?</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniors%20cooking%20(2).jpg">
@@ -52,24 +51,4 @@ assistance to find your nearest AAC.&nbsp;</p>
 <p>Most activities offered by the AACs are free for seniors to enjoy. However,
 depending on the service provider, there may be some unique activities
 that require a small fee for participation.</p>
-<h4>Keen to share a skill, or support fellow seniors?</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/extra_bedok%20radiance%20food%20delivery%20(2).jpg">
-</div>
-<p>AACs will also offer more opportunities for seniors to volunteer, keeping
-them active, purposeful and involved in their community.</p>
-<p>There is a wide range of volunteering opportunities for seniors with varying
-interests. Senior volunteers can organise active ageing programmes for
-fellow seniors, such as simple exercise programmes, preparing meals for
-communal dining, and befriending seniors who are at risk of social isolation.</p>
-<p>AIC will provide training through the Silver Guardian programme to equip
-seniors with the necessary skills, before matching senior volunteers to
-diverse volunteering opportunities at the AACs.</p>
-<p>We aim to double the number of senior volunteers trained by AIC to around
-4,000 senior volunteers by 2025.</p>
-<p><a href="https://aic.sg/silver-guardian" rel="noopener noreferrer nofollow" target="_blank">Sign up as a Silver Guardian today!</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaclogo.PNG">
-</div>
 <p></p>
