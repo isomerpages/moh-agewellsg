@@ -11,4 +11,4 @@ Age Well SG is a national programme led by the Ministry of Health, Ministry of N
 
 #### Click on image below to access the brand guidelines.
 
-[![](/images/asgbrandguidelinescover.PNG)](/files/asg_brand_guidelines.pdf)
+[![](/images/asgbrandguidelinescover.PNG)](/files/asg_brand_guidelines.pdf) 
