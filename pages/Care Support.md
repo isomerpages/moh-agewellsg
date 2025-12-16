@@ -25,24 +25,24 @@ support seniors to age-in-place in community, even as their needs increase.&nbsp
 care in the community, such as assistance with showering and housekeeping.
  It will also include a 24/7 technology-enabled monitoring and response
 element to detect falls and incidents, and provide timely support.&nbsp;</p>
-<p>MOH will mainstream HPC+ island-wide by end-2025 to better support more
-seniors. More information on the home personal care services can be found
-on the <a href="https://www.aic.sg/care-services/home-personal-care/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>.</p>
-<h4>Shared Stay-in Senior Care Services</h4>
+<p>MOH will mainstream HPC+ island-wide from early 2026 to better support
+more seniors. More information on the home personal care services can be
+found on the <a href="https://www.aic.sg/care-services/home-personal-care/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>.</p>
+<h4>Shared Stay-in Senior Caregiving Services</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20sandbox%20(2).jpg">
 </div>
-<p>The Shared Stay-in Senior Care Services is a care model where a caregiver
-assists a group of seniors with their activities of daily living and social
-programmes in a shared premises, similar to how families would provide
-caregiving for their loved ones. Service providers enjoy work pass flexibilities
-to support a sustainable model of manpower deployment to care for seniors
-round-the-clock.</p>
+<p>The Shared Stay-in Senior Caregiving Services is a care model where a
+caregiver assists a group of seniors living in the same residence with
+their activities of daily living and social programmes, similar to how
+families would provide caregiving for their loved ones. Service providers
+enjoy work pass flexibilities and training subsidies to support a sustainable
+model of manpower deployment to care for seniors.</p>
 <p>Service providers, families and seniors can refer to the guide on the
 recommended good practices when providing or seeking such a service. More
-information on the application details for interested service providers
-and the good practice guide can be found on the <a href="https://www.aic.sg/partners/pilot-projects-and-programmes/" rel="noopener noreferrer nofollow" target="_blank"><u>AIC website</u></a>from
-the second half of 2025.</p>
+information on Shared Stay-in Senior Caregiving Services and the good practice
+guide can be found on the&nbsp;<a href="https://www.aic.sg/partners/shared-stay-in-senior-caregiving-services/" rel="noopener noreferrer nofollow" target="_blank">AIC website.</a>
+</p>
 <h4>Seamless delivery of care</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%201%20(2).jpeg">
