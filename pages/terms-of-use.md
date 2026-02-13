@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 ### **Terms of Use**
 
@@ -30,7 +31,7 @@ permalink: /terms-of-use/
 
 ### **Privacy Policy**
 
-9. Click [here](https://www.moh.gov.sg/covid-19/privacy-statement) to view this Web Site’s Privacy Policy Statement.
+9. Click [here](https://www.moh.gov.sg/privacy-statement/) to view this Web Site’s Privacy Policy Statement.
 
 ### **Restrictions on use**
 
