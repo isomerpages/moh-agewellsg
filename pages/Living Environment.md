@@ -74,7 +74,7 @@ a community manager who will facilitate light social programming, basic
 health checks, assistance with simple household fixes, and round-the-clock
 emergency response service.</p>
 <p>The first CCA at Bukit Batok (Harmony Village) was completed in 2024.</p>
-<p>To find out more about the CCAs, <a href="https://www.hdb.gov.sg/residential/buying-a-flat/finding-a-flat/types-of-flats/community-care-apartments" rel="noopener nofollow" target="_blank">click here</a>.</p>
+<p>To find out more about the CCAs, <a href="https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/finding-a-new-flat/types-of-flats/community-care-apartments" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20(2).jpg">
 </div>
