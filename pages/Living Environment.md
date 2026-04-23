@@ -38,9 +38,8 @@ private residential properties.</p>
 <p>Singapore Citizen households living in private properties, with at least
 one senior, ill be eligible to engage a contractor, to supply and install
 senior-friendly fittings that will be made available under the EASE (Private).</p>
-<p>EASE (Private) will be rolled out as a three-year programme, and it is
-targeted to be launched by the first quarter of 2026. More details can
-be found on <a href="https://www.mnd.gov.sg/newsroom/parliament-matters/speeches/view/speech-by-minister-desmond-lee-at-the-committee-of-supply-debate" rel="noopener noreferrer nofollow" target="_blank">MND’s website</a>.</p>
+<p><em>The EASE (Private) programme provides subsidies for the installation of senior-friendly fittings&nbsp;in private properties for eligible households with Singapore Citizen seniors, to improve the mobility and safety of seniors within their homes. Apply online by visiting the <a href="https://www.ease-private.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">EASE (Private) website</a>.</em>
+</p>
 <h5>At the HDB precincts and private residential estates</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorfriendly%20(2).jpg">
