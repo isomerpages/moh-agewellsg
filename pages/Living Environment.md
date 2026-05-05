@@ -8,9 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/living%20environment%20banner%20(2).jpg">
 </div>
-<p><strong>To promote active ageing and help seniors move about more safely and comfortably, we will enhance the living environment in both HDB precincts and private residential estates. This makes it easier and safer for seniors to engage in their daily activities and stay active.</strong>
-</p>
-<h5>Within homes</h5>
+<p>To promote active ageing and help seniors move about more safely and comfortably,
+we will enhance the living environment in both HDB precincts and private
+residential estates. This makes it easier and safer for seniors to engage
+in their daily activities and stay active.</p>
+<h4><strong>Within homes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ease-2.jpg">
 </div>
@@ -34,7 +36,8 @@ support, we will extend the wireless Alert Alarm System (AAS) to all seniors
 aged 60 and above living in about 170 public rental blocks. This was rolled
 out progressively since January 2025 and will benefit around 26,800 more
 seniors.</p>
-<h5>At HDB precincts and private residential estates</h5>
+<p><strong>At HDB precincts and private residential estates</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorfriendly%20(2).jpg">
 </div>
@@ -65,5 +68,77 @@ service.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca%20(2).jpg">
 </div>
-<h5></h5>
+<h4>Friendly Streets</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<p>The green road markings serve to remind motorists that they are entering
+a "Friendly Street" and they should lower their speed and look out for
+pedestrians.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fs2.png">
+</div>
+<p><em>Raised zebra crossings act as a hump to slow down vehicles. The added elevation also makes crossing pedestrians more visible to motorists</em>
+</p>
+<p>With the Friendly Streets initiative, MOT is doing more to further enhance
+safety and convenience for residents, especially seniors, to move around
+their neighbourhoods, and encourage more active lifestyles.</p>
+<p>Launched in 2023 by MOT, the initiative aims to make the walking and cycling
+experience to markets, hawker centres and MRT stations in neighbourhoods
+even more comfortable, convenient and safe. All five pilot sites – Ang
+Mo Kio, Bukit Batok West, Tampines, Toa Payoh and West Coast - which are
+near key amenities and see high pedestrian flows, have been completed.</p>
+<p>At Friendly Streets, speed limits are lowered to 40km/h and are complemented
+with traffic calming measures such as road humps and narrower roads to
+slow down vehicles. There are also pedestrian-friendly features like longer
+and more frequent green man time to cross roads, raised zebra crossings
+and barrier-free pedestrian crossings such as kerbless crossings. These
+features make it easier for our seniors and families with young children
+to get around.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_25_at_2_24_59_PM.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_25_at_2_21_22_PM.png">
+</div>
+<p>Building on the positive feedback from our pilot sites, we are expanding
+the Friendly Streets initiative to all towns by 2030. We have completed
+engagements and are progressively starting infrastructure works for the&nbsp;
+<a href="https://www.mot.gov.sg/news-resources/newsroom/speech-by-senior-minister-of-state-for-transport--dr-amy-khor-on-the-launch-of-10-new-friendly-streets/" rel="noopener noreferrer nofollow" target="_blank">10 Friendly Streets announced in 2024&nbsp;</a>. We will take into account
+learning points from the pilot locations, and continue to work closely
+with the local communities as we implement Friendly Streets in more towns.&nbsp;&nbsp;</p>
+<p>In 2025, we launched&nbsp;<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2025/3/news-releases/friendlier_and_safer_walk_cycle_ride_journeys.html" rel="noopener noreferrer nofollow" target="_blank">15 more locations islandwide</a>.
+These locations include both public and private estates and have a higher
+proportion of seniors and/or young families who will benefit greatly from
+the convenience and having safer roads.&nbsp;</p>
+<h4>Enhanced Commuter Infrastructure</h4>
+<p>In support of Age Well SG, we will enhance our commuter infrastructure,
+to make walking to key public transport nodes more convenient, comfortable
+and accessible, especially for seniors. Residents will benefit from more
+covered linkways, upgraded bus stops with senior-friendly features, and
+more pedestrian overhead bridges with lifts. Besides helping seniors stay
+socially connected and active, these will create more comfortable and safer
+commutes for all.</p>
+<p><strong><em>Senior-friendly bus stop at Ang Mo Kio</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/busstop.jpg">
+</div>
+<p><em>More bus stops will be upgraded with senior-friendly features such as seats with a backrest or arm rest. Other features such as wheelchair accessibility and back or side panels at the bus stop as rain screens for better weather protection will make it more comfortable for seniors when they are waiting for a bus.</em>
+</p>
+<p><strong><em>More covered linkways to key transport nodes &amp; amenities</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Completed_Covered_Linkway_to_transport_node_c.jpg">
+</div>
+<p>LTA will be building covered linkways to connect MRT stations to Friendly
+Streets and key amenities that are largely within an 800-metre radius of
+major transport nodes.&nbsp;</p>
+<p><strong><em>More lifts at pedestrian overhead bridges</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/POB_AYE_Clementi.jpg">
+</div>
+<p><em>LTA has been retrofitting lifts for pedestrian overhead bridges near major transport nodes and healthcare institutions. Going forward, we will expand our coverage to retrofit more POBs at areas with many seniors.</em>
+</p>
