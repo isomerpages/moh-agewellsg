@@ -17,7 +17,6 @@ variant: tiptap
 </p>
 <p><em>- then-Prime Minister Lee Hsien Loong, National Day Rally, 20 August 2023</em>
 </p>
-<h4>Singapore is one of the fastest-ageing countries in the world</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHYKk--m9rQ"></iframe>
 </div>
