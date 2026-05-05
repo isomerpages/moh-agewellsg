@@ -34,7 +34,7 @@ support, we will extend the wireless Alert Alarm System (AAS) to all seniors
 aged 60 and above living in about 170 public rental blocks. This was rolled
 out progressively since January 2025 and will benefit around 26,800 more
 seniors.</p>
-<h5>At HDB precincts and private residential estate</h5>
+<h5>At HDB precincts and private residential estates</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorfriendly%20(2).jpg">
 </div>
