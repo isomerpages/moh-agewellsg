@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/encourage%20active%20ageing%20(2).jpg">
 </div>
-<p><strong>In tandem with <a href="https://www.healthiersg.gov.sg/" rel="noopener nofollow" target="_blank">Healthier SG</a>, which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily. </strong>
+<p><strong>In tandem with <a href="https://www.healthiersg.gov.sg/" rel="noopener nofollow" target="_blank">Healthier SG</a>, which looks at preventive care for all Singaporeans, we need a tailored approach targeted at supporting seniors to age actively and healthily.</strong>
 </p>
 <h4>The enhancement of the Active Ageing Centres (AACs) is one of our key strategies.</h4>
 <div class="isomer-image-wrapper">
@@ -32,6 +32,7 @@ social isolation.</p>
 <p>The Silver Generation Office will also prioritise outreach to seniors
 at greater risk of social isolation and frailty and encourage them to join
 their neighbourhood AACs.</p>
+<p></p>
 <h4>Can I attend an AAC?</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniors%20cooking%20(2).jpg">
@@ -41,7 +42,7 @@ mentally and socially active. They offer a range of activities and programmes
 for seniors with varied interests and abilities.</p>
 <h4>Interested to participate in an AAC?</h4>
 <p>You may walk in to your nearest AAC to take part in their programmes and
-activities.<a href="https://go.gov.sg/aacgowhere" rel="noopener nofollow" target="_blank">Click here to locate your nearest AAC.  </a>  Alternatively,
+activities. <a href="https://go.gov.sg/aacgowhere" rel="noopener nofollow" target="_blank">Click here to locate your nearest AAC.  </a>  Alternatively,
 you may contact the Agency for Integrated Care (AIC) at 1800-650-6060,
 or <a href="https://www.aic.sg/about-us/contact-us-form/" class="Hyperlink SCXW86045020 BCX0" rel="noreferrer noopener" target="_blank"><u>email them</u></a> for
 assistance to find your nearest AAC. &nbsp;</p>
