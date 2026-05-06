@@ -34,7 +34,7 @@ or after-hours support. &nbsp;This expanded coverage is available at an
 additional fee. Please check in with your HPC+ provider for prevailing
 charges and subsides.</p>
 <p>More information can be found on the <a href="https://www.aic.sg/Care-Services/Enhanced-Home-Personal-Care" rel="noopener noreferrer nofollow" target="_blank">AIC website</a>.</p>
-<h4>Health services closer to seniors in the community</h4>
+<h4><strong>Health services closer to seniors in the community</strong></h4>
 <p>Community Health Posts (CHPs) are located within the neighbourhood to
 bring you and your loved ones convenient access to health services and
 social support, beyond doctor visits. Seniors in AWNs can access enhanced
