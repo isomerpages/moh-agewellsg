@@ -69,7 +69,7 @@ community care plan developed that cuts across long-term care services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo%20for%20delivery%20of%20care%202%20(2).png">
 </div>
-<p>Caregivers can tap on up to $400 in&nbsp;<a href="https://www.aic.sg/financial-assistance/caregivers-training-grant-ctg/" rel="noopener noreferrer nofollow" target="_blank">Caregivers’ Training Grant (CTG)</a>&nbsp;subsidies
+<p>Caregivers can tap on up to $400 in&nbsp;<a href="https://www.aic.sg/Financial-Assistance/Caregivers-Training-Grant" rel="noopener nofollow" target="_blank">Caregivers Training Grant (CTG)</a> subsidies
 per year. Caregivers can also utilise their SkillsFuture Credit to pay
 for eligible caregiver courses, to further reduce the cost of training.&nbsp;</p>
 <p>With these, we will scale up the number of subsidised training places
